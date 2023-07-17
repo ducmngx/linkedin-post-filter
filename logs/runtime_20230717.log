@@ -1,1 +1,16 @@
 INFO:PipelineLog:2023-07-17 01:23:34: MySQL connection is created.
+INFO:PipelineLog:2023-07-17 01:43:40: MySQL connection is created.
+INFO:PipelineLog:2023-07-17 01:43:40: Successfully executed query: INSERT INTO company_dimension VALUES (123, "GoogleX", "DC", "www.googlex.com", "tech");
+INFO:PipelineLog:2023-07-17 01:43:40: MySQL connection is closed.
+INFO:PipelineLog:2023-07-17 01:44:16: MySQL connection is created.
+INFO:PipelineLog:2023-07-17 01:44:16: Successfully executed query: INSERT INTO company_dimension VALUES (124, "Meta", "CA", "www.meta.com", "tech");
+INFO:PipelineLog:2023-07-17 01:44:16: MySQL connection is closed.
+INFO:PipelineLog:2023-07-17 01:46:27: MySQL connection is created.
+INFO:PipelineLog:2023-07-17 01:46:27: Successfully fetched data from executing query: SELECT * FROM company_dimension;
+INFO:PipelineLog:2023-07-17 01:46:27: MySQL connection is closed.
+INFO:PipelineLog:2023-07-17 01:46:51: MySQL connection is created.
+INFO:PipelineLog:2023-07-17 01:46:51: Successfully fetched data from executing query: SELECT * FROM company_dimension;
+INFO:PipelineLog:2023-07-17 01:46:51: MySQL connection is closed.
+INFO:PipelineLog:2023-07-17 01:46:55: MySQL connection is created.
+INFO:PipelineLog:2023-07-17 01:46:55: Successfully fetched data from executing query: SELECT * FROM company_dimension;
+INFO:PipelineLog:2023-07-17 01:46:55: MySQL connection is closed.

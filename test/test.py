@@ -10,5 +10,14 @@ if __name__ == "__main__":
 
     myDB.start_connection()
 
+    # query = "INSERT INTO company_dimension VALUES (124, \"Meta\", \"CA\", \"www.meta.com\", \"tech\");"
+
+    # myDB.run_query(query)
+
+    get_query = "SELECT * FROM company_dimension;"
+    data = myDB.get_data(get_query)
+
+    for da in data:
+        print(da)
 
     myDB.end_connection()

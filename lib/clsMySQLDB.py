@@ -42,8 +42,7 @@ class clsMySqlDatabase(clsAbstractDatabase):
     def run_query(self, query: str):
         cursor = self.conn.cursor()
         try:
-            cursor.execute(
-                "CREATE DATABASE {} DEFAULT CHARACTER SET 'utf8'".format(DB_NAME))
+            cursor.execute(query)
             self.commit()
             self.logger.info(f"{utils.get_current_datetime()}: Successfully executed query: {query}")
         except Exception as e:

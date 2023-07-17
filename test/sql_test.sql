@@ -1,6 +1,6 @@
 -- Active: 1687149754613@@127.0.0.1@3306@LinkedInDB
--- INSERT INTO company_dimension
--- VALUES (123, "GoogleX", "DC", "www.googlex.com", "tech");
+INSERT INTO company_dimension
+VALUES (123, "GoogleX", "DC", "www.googlex.com", "tech");
 -- SELECT *
 -- FROM company_dimension;
 -- DROP PROCEDURE IF EXISTS UPDATEDATETIME;
