@@ -23,3 +23,5 @@
 -- 		service_quarter
 -- 	);
 -- END
+
+SELECT User FROM mysql.user;
