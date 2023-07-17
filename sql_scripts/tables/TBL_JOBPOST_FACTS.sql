@@ -6,7 +6,7 @@ CREATE TABLE IF NOT EXISTS jobPost_facts(
     expLevel VARCHAR(20) NOT NULL,
     workRemoteAllowed BIT NOT NULL,
     jobLocation VARCHAR(50) NOT NULL,
-    requirement VARCHAR(100) NOT NULL,
+    requirement VARCHAR(100) NULL,
     applyLink VARCHAR(100) NOT NULL,
     jobState BIT NOT NULL,
     openDate DATE NOT NULL,
