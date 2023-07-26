@@ -1,0 +1,567 @@
+INFO:PipelineLog:2023-07-26 11:58:16: MySQL connection is created.
+INFO:PipelineLog:2023-07-26 11:58:18: Successfully executed procedure: UPDATEDATETIME
+INFO:PipelineLog:2023-07-26 12:21:21: MySQL connection is created.
+INFO:PipelineLog:2023-07-26 12:21:23: Successfully executed procedure: UPDATEDATETIME
+INFO:PipelineLog:2023-07-26 12:28:20: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:JobPostingID is 3675292728
+ERROR:PipelineLog:2023-07-26 12:28:24: Error while trying to execute procedure: UPDATEJOBPOST : 1406 (22001): Data too long for column 'JOBSTATE' at row 1 
+INFO:PipelineLog:2023-07-26 12:28:27: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:JobPostingID is 3675266758
+ERROR:PipelineLog:2023-07-26 12:28:32: Error while trying to execute procedure: UPDATEJOBPOST : 1406 (22001): Data too long for column 'JOBSTATE' at row 1 
+ERROR:PipelineLog:2023-07-26 12:28:35: Error while trying to execute procedure: UPDATECOMPANY : 1406 (22001): Data too long for column 'CHQADDRESS' at row 1 
+INFO:PipelineLog:JobPostingID is 3676256682
+ERROR:PipelineLog:2023-07-26 12:28:40: Error while trying to execute procedure: UPDATEJOBPOST : 1406 (22001): Data too long for column 'JOBSTATE' at row 1 
+INFO:PipelineLog:2023-07-26 12:28:44: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:JobPostingID is 3675289757
+ERROR:PipelineLog:2023-07-26 12:28:48: Error while trying to execute procedure: UPDATEJOBPOST : 1406 (22001): Data too long for column 'JOBSTATE' at row 1 
+INFO:PipelineLog:2023-07-26 12:28:51: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:JobPostingID is 3672956321
+ERROR:PipelineLog:2023-07-26 12:28:53: Error while trying to execute procedure: UPDATEJOBPOST : 1406 (22001): Data too long for column 'JOBSTATE' at row 1 
+INFO:PipelineLog:2023-07-26 12:28:57: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:JobPostingID is 3675296098
+ERROR:PipelineLog:2023-07-26 12:28:59: Error while trying to execute procedure: UPDATEJOBPOST : 1406 (22001): Data too long for column 'JOBSTATE' at row 1 
+INFO:PipelineLog:2023-07-26 12:29:01: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:JobPostingID is 3675291551
+ERROR:PipelineLog:2023-07-26 12:29:05: Error while trying to execute procedure: UPDATEJOBPOST : 1406 (22001): Data too long for column 'JOBSTATE' at row 1 
+INFO:PipelineLog:2023-07-26 12:29:10: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:JobPostingID is 3675294068
+ERROR:PipelineLog:2023-07-26 12:29:14: Error while trying to execute procedure: UPDATEJOBPOST : 1406 (22001): Data too long for column 'JOBSTATE' at row 1 
+INFO:PipelineLog:2023-07-26 12:29:19: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:JobPostingID is 3675295320
+ERROR:PipelineLog:2023-07-26 12:29:23: Error while trying to execute procedure: UPDATEJOBPOST : 1406 (22001): Data too long for column 'JOBSTATE' at row 1 
+INFO:PipelineLog:2023-07-26 12:29:26: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:JobPostingID is 3675296455
+ERROR:PipelineLog:2023-07-26 12:29:28: Error while trying to execute procedure: UPDATEJOBPOST : 1406 (22001): Data too long for column 'JOBSTATE' at row 1 
+INFO:PipelineLog:2023-07-26 12:29:30: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:2023-07-26 12:29:43: MySQL connection is created.
+INFO:PipelineLog:2023-07-26 12:29:44: Successfully executed procedure: UPDATEDATETIME
+INFO:PipelineLog:2023-07-26 12:36:13: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:36:18: Error while trying to execute procedure: UPDATEJOBPOST : 1406 (22001): Data too long for column 'JOBSTATE' at row 1 
+INFO:PipelineLog:2023-07-26 12:36:21: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:36:25: Error while trying to execute procedure: UPDATEJOBPOST : 1406 (22001): Data too long for column 'JOBSTATE' at row 1 
+INFO:PipelineLog:2023-07-26 12:36:29: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:36:32: Error while trying to execute procedure: UPDATEJOBPOST : 1406 (22001): Data too long for column 'JOBSTATE' at row 1 
+INFO:PipelineLog:2023-07-26 12:36:35: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:36:38: Error while trying to execute procedure: UPDATEJOBPOST : 1406 (22001): Data too long for column 'JOBSTATE' at row 1 
+INFO:PipelineLog:2023-07-26 12:36:41: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:36:45: Error while trying to execute procedure: UPDATEJOBPOST : 1406 (22001): Data too long for column 'JOBSTATE' at row 1 
+INFO:PipelineLog:2023-07-26 12:36:49: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:36:55: Error while trying to execute procedure: UPDATEJOBPOST : 1406 (22001): Data too long for column 'JOBSTATE' at row 1 
+INFO:PipelineLog:2023-07-26 12:36:58: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:37:02: Error while trying to execute procedure: UPDATEJOBPOST : 1406 (22001): Data too long for column 'JOBSTATE' at row 1 
+INFO:PipelineLog:2023-07-26 12:37:05: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:37:07: Error while trying to execute procedure: UPDATEJOBPOST : 1406 (22001): Data too long for column 'JOBSTATE' at row 1 
+INFO:PipelineLog:2023-07-26 12:37:12: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:37:17: Error while trying to execute procedure: UPDATEJOBPOST : 1406 (22001): Data too long for column 'JOBSTATE' at row 1 
+INFO:PipelineLog:2023-07-26 12:37:22: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:37:25: Error while trying to execute procedure: UPDATEJOBPOST : 1406 (22001): Data too long for column 'JOBSTATE' at row 1 
+INFO:PipelineLog:2023-07-26 12:37:30: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:37:35: Error while trying to execute procedure: UPDATEJOBPOST : 1406 (22001): Data too long for column 'JOBSTATE' at row 1 
+INFO:PipelineLog:2023-07-26 12:37:37: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:37:42: Error while trying to execute procedure: UPDATEJOBPOST : 1406 (22001): Data too long for column 'JOBSTATE' at row 1 
+INFO:PipelineLog:2023-07-26 12:37:45: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:37:47: Error while trying to execute procedure: UPDATEJOBPOST : 1406 (22001): Data too long for column 'JOBSTATE' at row 1 
+INFO:PipelineLog:2023-07-26 12:37:51: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:37:54: Error while trying to execute procedure: UPDATEJOBPOST : 1406 (22001): Data too long for column 'JOBSTATE' at row 1 
+INFO:PipelineLog:2023-07-26 12:37:58: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:38:00: Error while trying to execute procedure: UPDATEJOBPOST : 1406 (22001): Data too long for column 'JOBSTATE' at row 1 
+INFO:PipelineLog:2023-07-26 12:38:04: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:38:06: Error while trying to execute procedure: UPDATEJOBPOST : 1406 (22001): Data too long for column 'JOBSTATE' at row 1 
+INFO:PipelineLog:2023-07-26 12:38:09: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:38:13: Error while trying to execute procedure: UPDATEJOBPOST : 1406 (22001): Data too long for column 'JOBSTATE' at row 1 
+INFO:PipelineLog:2023-07-26 12:38:18: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:38:21: Error while trying to execute procedure: UPDATEJOBPOST : 1406 (22001): Data too long for column 'JOBSTATE' at row 1 
+INFO:PipelineLog:2023-07-26 12:38:26: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:38:28: Error while trying to execute procedure: UPDATEJOBPOST : 1406 (22001): Data too long for column 'JOBSTATE' at row 1 
+ERROR:PipelineLog:2023-07-26 12:38:30: Error while trying to execute procedure: UPDATECOMPANY : 1406 (22001): Data too long for column 'CHQADDRESS' at row 1 
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:38:34: Error while trying to execute procedure: UPDATEJOBPOST : 1406 (22001): Data too long for column 'JOBSTATE' at row 1 
+INFO:PipelineLog:2023-07-26 12:38:38: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:38:44: Error while trying to execute procedure: UPDATEJOBPOST : 1406 (22001): Data too long for column 'JOBSTATE' at row 1 
+INFO:PipelineLog:2023-07-26 12:38:47: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:38:52: Error while trying to execute procedure: UPDATEJOBPOST : 1406 (22001): Data too long for column 'JOBDESC' at row 1 
+INFO:PipelineLog:2023-07-26 12:38:54: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:38:56: Error while trying to execute procedure: UPDATEJOBPOST : 1406 (22001): Data too long for column 'JOBDESC' at row 1 
+INFO:PipelineLog:2023-07-26 12:39:00: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:39:05: Error while trying to execute procedure: UPDATEJOBPOST : 1406 (22001): Data too long for column 'JOBSTATE' at row 1 
+INFO:PipelineLog:2023-07-26 12:39:09: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:39:14: Error while trying to execute procedure: UPDATEJOBPOST : 1406 (22001): Data too long for column 'JOBSTATE' at row 1 
+INFO:PipelineLog:2023-07-26 12:39:18: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:39:21: Error while trying to execute procedure: UPDATEJOBPOST : 1406 (22001): Data too long for column 'JOBSTATE' at row 1 
+INFO:PipelineLog:2023-07-26 12:39:24: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:39:27: Error while trying to execute procedure: UPDATEJOBPOST : 1406 (22001): Data too long for column 'JOBSTATE' at row 1 
+INFO:PipelineLog:2023-07-26 12:39:32: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:39:35: Error while trying to execute procedure: UPDATEJOBPOST : 1406 (22001): Data too long for column 'JOBSTATE' at row 1 
+INFO:PipelineLog:2023-07-26 12:39:39: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:39:44: Error while trying to execute procedure: UPDATEJOBPOST : 1406 (22001): Data too long for column 'JOBSTATE' at row 1 
+INFO:PipelineLog:2023-07-26 12:39:49: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:39:51: Error while trying to execute procedure: UPDATEJOBPOST : 1406 (22001): Data too long for column 'JOBSTATE' at row 1 
+INFO:PipelineLog:2023-07-26 12:39:56: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:39:58: Error while trying to execute procedure: UPDATEJOBPOST : 1406 (22001): Data too long for column 'JOBSTATE' at row 1 
+ERROR:PipelineLog:2023-07-26 12:40:01: Error while trying to execute procedure: UPDATECOMPANY : 1366 (HY000): Incorrect integer value: 'EC2R 8EJ' for column 'CHQZIPCODE' at row 1 
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:40:04: Error while trying to execute procedure: UPDATEJOBPOST : 1406 (22001): Data too long for column 'JOBSTATE' at row 1 
+INFO:PipelineLog:2023-07-26 12:40:07: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:40:10: Error while trying to execute procedure: UPDATEJOBPOST : 1406 (22001): Data too long for column 'JOBSTATE' at row 1 
+INFO:PipelineLog:2023-07-26 12:40:14: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:40:19: Error while trying to execute procedure: UPDATEJOBPOST : 1406 (22001): Data too long for column 'JOBSTATE' at row 1 
+ERROR:PipelineLog:2023-07-26 12:40:23: Error while trying to execute procedure: UPDATECOMPANY : 1406 (22001): Data too long for column 'CHQADDRESS' at row 1 
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:40:27: Error while trying to execute procedure: UPDATEJOBPOST : 1406 (22001): Data too long for column 'JOBDESC' at row 1 
+INFO:PipelineLog:2023-07-26 12:40:30: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:40:35: Error while trying to execute procedure: UPDATEJOBPOST : 1406 (22001): Data too long for column 'JOBSTATE' at row 1 
+INFO:PipelineLog:2023-07-26 12:43:25: MySQL connection is created.
+INFO:PipelineLog:2023-07-26 12:43:26: Successfully executed procedure: UPDATEDATETIME
+INFO:PipelineLog:2023-07-26 12:50:07: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:50:11: Error while trying to execute procedure: UPDATEJOBPOST : 1292 (22007): Incorrect date value: 'NULL' for column 'CLOSEDATE' at row 1 
+INFO:PipelineLog:2023-07-26 12:50:17: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:50:20: Error while trying to execute procedure: UPDATEJOBPOST : 1292 (22007): Incorrect date value: 'NULL' for column 'CLOSEDATE' at row 1 
+ERROR:PipelineLog:2023-07-26 12:50:22: Error while trying to execute procedure: UPDATECOMPANY : 1366 (HY000): Incorrect integer value: 'L5N 1V8' for column 'CHQZIPCODE' at row 1 
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:50:26: Error while trying to execute procedure: UPDATEJOBPOST : 1292 (22007): Incorrect date value: 'NULL' for column 'CLOSEDATE' at row 1 
+INFO:PipelineLog:2023-07-26 12:50:29: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:50:31: Error while trying to execute procedure: UPDATEJOBPOST : 1292 (22007): Incorrect date value: 'NULL' for column 'CLOSEDATE' at row 1 
+INFO:PipelineLog:2023-07-26 12:50:34: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:50:39: Error while trying to execute procedure: UPDATEJOBPOST : 1292 (22007): Incorrect date value: 'NULL' for column 'CLOSEDATE' at row 1 
+INFO:PipelineLog:2023-07-26 12:50:43: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:50:47: Error while trying to execute procedure: UPDATEJOBPOST : 1292 (22007): Incorrect date value: 'NULL' for column 'CLOSEDATE' at row 1 
+INFO:PipelineLog:2023-07-26 12:50:49: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:50:53: Error while trying to execute procedure: UPDATEJOBPOST : 1292 (22007): Incorrect date value: 'NULL' for column 'CLOSEDATE' at row 1 
+INFO:PipelineLog:2023-07-26 12:50:57: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:51:01: Error while trying to execute procedure: UPDATEJOBPOST : 1292 (22007): Incorrect date value: 'NULL' for column 'CLOSEDATE' at row 1 
+INFO:PipelineLog:2023-07-26 12:51:05: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:51:07: Error while trying to execute procedure: UPDATEJOBPOST : 1292 (22007): Incorrect date value: 'NULL' for column 'CLOSEDATE' at row 1 
+INFO:PipelineLog:2023-07-26 12:51:10: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:51:14: Error while trying to execute procedure: UPDATEJOBPOST : 1292 (22007): Incorrect date value: 'NULL' for column 'CLOSEDATE' at row 1 
+INFO:PipelineLog:2023-07-26 12:51:19: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:51:22: Error while trying to execute procedure: UPDATEJOBPOST : 1292 (22007): Incorrect date value: 'NULL' for column 'CLOSEDATE' at row 1 
+INFO:PipelineLog:2023-07-26 12:51:26: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:51:29: Error while trying to execute procedure: UPDATEJOBPOST : 1292 (22007): Incorrect date value: 'NULL' for column 'CLOSEDATE' at row 1 
+INFO:PipelineLog:2023-07-26 12:51:31: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:51:34: Error while trying to execute procedure: UPDATEJOBPOST : 1292 (22007): Incorrect date value: 'NULL' for column 'CLOSEDATE' at row 1 
+INFO:PipelineLog:2023-07-26 12:51:37: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:51:39: Error while trying to execute procedure: UPDATEJOBPOST : 1292 (22007): Incorrect date value: 'NULL' for column 'CLOSEDATE' at row 1 
+INFO:PipelineLog:2023-07-26 12:51:41: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:51:43: Error while trying to execute procedure: UPDATEJOBPOST : 1292 (22007): Incorrect date value: 'NULL' for column 'CLOSEDATE' at row 1 
+INFO:PipelineLog:2023-07-26 12:51:48: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:51:51: Error while trying to execute procedure: UPDATEJOBPOST : 1292 (22007): Incorrect date value: 'NULL' for column 'CLOSEDATE' at row 1 
+INFO:PipelineLog:2023-07-26 12:51:57: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:52:00: Error while trying to execute procedure: UPDATEJOBPOST : 1292 (22007): Incorrect date value: 'NULL' for column 'CLOSEDATE' at row 1 
+INFO:PipelineLog:2023-07-26 12:52:04: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:52:07: Error while trying to execute procedure: UPDATEJOBPOST : 1292 (22007): Incorrect date value: 'NULL' for column 'CLOSEDATE' at row 1 
+INFO:PipelineLog:2023-07-26 12:52:10: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:52:12: Error while trying to execute procedure: UPDATEJOBPOST : 1292 (22007): Incorrect date value: 'NULL' for column 'CLOSEDATE' at row 1 
+INFO:PipelineLog:2023-07-26 12:52:15: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:52:18: Error while trying to execute procedure: UPDATEJOBPOST : 1292 (22007): Incorrect date value: 'NULL' for column 'CLOSEDATE' at row 1 
+INFO:PipelineLog:2023-07-26 12:52:23: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:52:27: Error while trying to execute procedure: UPDATEJOBPOST : 1292 (22007): Incorrect date value: 'NULL' for column 'CLOSEDATE' at row 1 
+INFO:PipelineLog:2023-07-26 12:52:29: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:52:32: Error while trying to execute procedure: UPDATEJOBPOST : 1292 (22007): Incorrect date value: 'NULL' for column 'CLOSEDATE' at row 1 
+INFO:PipelineLog:2023-07-26 12:52:36: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:52:39: Error while trying to execute procedure: UPDATEJOBPOST : 1292 (22007): Incorrect date value: 'NULL' for column 'CLOSEDATE' at row 1 
+INFO:PipelineLog:2023-07-26 12:52:42: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:52:46: Error while trying to execute procedure: UPDATEJOBPOST : 1292 (22007): Incorrect date value: 'NULL' for column 'CLOSEDATE' at row 1 
+INFO:PipelineLog:2023-07-26 12:52:49: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:52:54: Error while trying to execute procedure: UPDATEJOBPOST : 1292 (22007): Incorrect date value: 'NULL' for column 'CLOSEDATE' at row 1 
+INFO:PipelineLog:2023-07-26 12:52:58: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:53:00: Error while trying to execute procedure: UPDATEJOBPOST : 1292 (22007): Incorrect date value: 'NULL' for column 'CLOSEDATE' at row 1 
+INFO:PipelineLog:2023-07-26 12:53:05: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:53:10: Error while trying to execute procedure: UPDATEJOBPOST : 1292 (22007): Incorrect date value: 'NULL' for column 'CLOSEDATE' at row 1 
+INFO:PipelineLog:2023-07-26 12:53:13: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:53:16: Error while trying to execute procedure: UPDATEJOBPOST : 1292 (22007): Incorrect date value: 'NULL' for column 'CLOSEDATE' at row 1 
+ERROR:PipelineLog:2023-07-26 12:53:19: Error while trying to execute procedure: UPDATECOMPANY : 1366 (HY000): Incorrect integer value: 'EC2R 8EJ' for column 'CHQZIPCODE' at row 1 
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:53:24: Error while trying to execute procedure: UPDATEJOBPOST : 1292 (22007): Incorrect date value: 'NULL' for column 'CLOSEDATE' at row 1 
+INFO:PipelineLog:2023-07-26 12:53:29: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:53:33: Error while trying to execute procedure: UPDATEJOBPOST : 1292 (22007): Incorrect date value: 'NULL' for column 'CLOSEDATE' at row 1 
+INFO:PipelineLog:2023-07-26 12:53:35: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:53:41: Error while trying to execute procedure: UPDATEJOBPOST : 1292 (22007): Incorrect date value: 'NULL' for column 'CLOSEDATE' at row 1 
+INFO:PipelineLog:2023-07-26 12:53:45: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:53:48: Error while trying to execute procedure: UPDATEJOBPOST : 1292 (22007): Incorrect date value: 'NULL' for column 'CLOSEDATE' at row 1 
+INFO:PipelineLog:2023-07-26 12:53:53: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:53:56: Error while trying to execute procedure: UPDATEJOBPOST : 1292 (22007): Incorrect date value: 'NULL' for column 'CLOSEDATE' at row 1 
+ERROR:PipelineLog:2023-07-26 12:54:01: Error while trying to execute procedure: UPDATECOMPANY : 1406 (22001): Data too long for column 'CHQADDRESS' at row 1 
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:54:06: Error while trying to execute procedure: UPDATEJOBPOST : 1292 (22007): Incorrect date value: 'NULL' for column 'CLOSEDATE' at row 1 
+INFO:PipelineLog:2023-07-26 12:54:09: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:54:13: Error while trying to execute procedure: UPDATEJOBPOST : 1292 (22007): Incorrect date value: 'NULL' for column 'CLOSEDATE' at row 1 
+INFO:PipelineLog:2023-07-26 12:54:18: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:54:21: Error while trying to execute procedure: UPDATEJOBPOST : 1292 (22007): Incorrect date value: 'NULL' for column 'CLOSEDATE' at row 1 
+INFO:PipelineLog:2023-07-26 12:54:25: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:54:31: Error while trying to execute procedure: UPDATEJOBPOST : 1292 (22007): Incorrect date value: 'NULL' for column 'CLOSEDATE' at row 1 
+INFO:PipelineLog:2023-07-26 12:54:33: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:54:37: Error while trying to execute procedure: UPDATEJOBPOST : 1292 (22007): Incorrect date value: 'NULL' for column 'CLOSEDATE' at row 1 
+INFO:PipelineLog:2023-07-26 12:54:40: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:54:45: Error while trying to execute procedure: UPDATEJOBPOST : 1292 (22007): Incorrect date value: 'NULL' for column 'CLOSEDATE' at row 1 
+INFO:PipelineLog:2023-07-26 12:54:47: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:54:49: Error while trying to execute procedure: UPDATEJOBPOST : 1292 (22007): Incorrect date value: 'NULL' for column 'CLOSEDATE' at row 1 
+INFO:PipelineLog:2023-07-26 12:54:52: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:54:54: Error while trying to execute procedure: UPDATEJOBPOST : 1292 (22007): Incorrect date value: 'NULL' for column 'CLOSEDATE' at row 1 
+INFO:PipelineLog:2023-07-26 12:54:57: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:55:01: Error while trying to execute procedure: UPDATEJOBPOST : 1292 (22007): Incorrect date value: 'NULL' for column 'CLOSEDATE' at row 1 
+INFO:PipelineLog:2023-07-26 12:55:03: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:55:06: Error while trying to execute procedure: UPDATEJOBPOST : 1292 (22007): Incorrect date value: 'NULL' for column 'CLOSEDATE' at row 1 
+INFO:PipelineLog:2023-07-26 12:55:11: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:55:14: Error while trying to execute procedure: UPDATEJOBPOST : 1292 (22007): Incorrect date value: 'NULL' for column 'CLOSEDATE' at row 1 
+INFO:PipelineLog:2023-07-26 12:55:19: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:55:21: Error while trying to execute procedure: UPDATEJOBPOST : 1292 (22007): Incorrect date value: 'NULL' for column 'CLOSEDATE' at row 1 
+INFO:PipelineLog:2023-07-26 12:55:27: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:55:32: Error while trying to execute procedure: UPDATEJOBPOST : 1292 (22007): Incorrect date value: 'NULL' for column 'CLOSEDATE' at row 1 
+INFO:PipelineLog:2023-07-26 12:55:35: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:55:37: Error while trying to execute procedure: UPDATEJOBPOST : 1292 (22007): Incorrect date value: 'NULL' for column 'CLOSEDATE' at row 1 
+INFO:PipelineLog:2023-07-26 12:55:40: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:55:43: Error while trying to execute procedure: UPDATEJOBPOST : 1292 (22007): Incorrect date value: 'NULL' for column 'CLOSEDATE' at row 1 
+ERROR:PipelineLog:2023-07-26 12:55:48: Error while trying to execute procedure: UPDATECOMPANY : 1366 (HY000): Incorrect integer value: 'EC2A 4EB' for column 'CHQZIPCODE' at row 1 
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:55:51: Error while trying to execute procedure: UPDATEJOBPOST : 1292 (22007): Incorrect date value: 'NULL' for column 'CLOSEDATE' at row 1 
+INFO:PipelineLog:2023-07-26 12:55:54: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:55:57: Error while trying to execute procedure: UPDATEJOBPOST : 1292 (22007): Incorrect date value: 'NULL' for column 'CLOSEDATE' at row 1 
+INFO:PipelineLog:2023-07-26 12:56:01: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:56:04: Error while trying to execute procedure: UPDATEJOBPOST : 1292 (22007): Incorrect date value: 'NULL' for column 'CLOSEDATE' at row 1 
+INFO:PipelineLog:2023-07-26 12:56:10: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+ERROR:PipelineLog:2023-07-26 12:56:12: Error while trying to execute procedure: UPDATEJOBPOST : 1292 (22007): Incorrect date value: 'NULL' for column 'CLOSEDATE' at row 1 
+INFO:PipelineLog:2023-07-26 12:56:50: MySQL connection is created.
+INFO:PipelineLog:2023-07-26 12:56:52: Successfully executed procedure: UPDATEDATETIME
+INFO:PipelineLog:2023-07-26 13:00:07: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+INFO:PipelineLog:2023-07-26 13:00:12: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 13:00:15: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+INFO:PipelineLog:2023-07-26 13:00:17: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 13:00:19: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+INFO:PipelineLog:2023-07-26 13:00:23: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 13:00:26: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+INFO:PipelineLog:2023-07-26 13:00:28: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 13:00:32: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+INFO:PipelineLog:2023-07-26 13:00:38: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 13:00:40: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+INFO:PipelineLog:2023-07-26 13:00:43: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 13:00:46: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+INFO:PipelineLog:2023-07-26 13:00:52: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 13:00:55: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+INFO:PipelineLog:2023-07-26 13:00:59: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 13:01:03: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+INFO:PipelineLog:2023-07-26 13:01:05: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 13:01:11: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+INFO:PipelineLog:2023-07-26 13:01:15: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 13:01:18: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+INFO:PipelineLog:2023-07-26 13:01:20: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 13:01:22: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+INFO:PipelineLog:2023-07-26 13:01:25: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 13:01:30: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+INFO:PipelineLog:2023-07-26 13:01:36: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 13:01:40: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+INFO:PipelineLog:2023-07-26 13:01:44: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 13:01:49: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+INFO:PipelineLog:2023-07-26 13:01:53: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 13:01:55: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+INFO:PipelineLog:2023-07-26 13:02:00: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 13:02:04: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+INFO:PipelineLog:2023-07-26 13:02:07: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 13:02:11: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+INFO:PipelineLog:2023-07-26 13:02:15: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 13:02:19: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+INFO:PipelineLog:2023-07-26 13:02:22: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 13:02:27: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+INFO:PipelineLog:2023-07-26 13:02:32: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 13:02:35: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+INFO:PipelineLog:2023-07-26 13:02:38: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 13:02:41: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+INFO:PipelineLog:2023-07-26 13:02:46: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 13:02:50: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+INFO:PipelineLog:2023-07-26 13:02:54: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 13:02:59: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+INFO:PipelineLog:2023-07-26 13:03:01: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 13:03:03: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+INFO:PipelineLog:2023-07-26 13:03:08: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 13:03:12: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+INFO:PipelineLog:2023-07-26 13:03:17: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 13:03:21: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+INFO:PipelineLog:2023-07-26 13:03:24: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 13:03:28: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+INFO:PipelineLog:2023-07-26 13:03:33: Successfully executed procedure: UPDATEJOBPOST
+ERROR:PipelineLog:2023-07-26 13:03:36: Error while trying to execute procedure: UPDATECOMPANY : 1366 (HY000): Incorrect integer value: 'EC2R 8EJ' for column 'CHQZIPCODE' at row 1 
+INFO:PipelineLog:jobState is LISTED
+INFO:PipelineLog:2023-07-26 13:03:38: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 13:03:43: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+INFO:PipelineLog:2023-07-26 13:03:45: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 13:03:49: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+INFO:PipelineLog:2023-07-26 13:03:52: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 13:03:54: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+INFO:PipelineLog:2023-07-26 13:03:58: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 13:04:04: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+INFO:PipelineLog:2023-07-26 13:04:06: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 13:04:10: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+INFO:PipelineLog:2023-07-26 13:04:16: Successfully executed procedure: UPDATEJOBPOST
+ERROR:PipelineLog:2023-07-26 13:04:21: Error while trying to execute procedure: UPDATECOMPANY : 1406 (22001): Data too long for column 'CHQADDRESS' at row 1 
+INFO:PipelineLog:jobState is LISTED
+INFO:PipelineLog:2023-07-26 13:04:25: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 13:04:30: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+INFO:PipelineLog:2023-07-26 13:04:36: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 13:04:38: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+INFO:PipelineLog:2023-07-26 13:04:40: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 13:04:42: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+INFO:PipelineLog:2023-07-26 13:04:45: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 13:04:48: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+INFO:PipelineLog:2023-07-26 13:04:52: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 13:04:56: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+INFO:PipelineLog:2023-07-26 13:05:01: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 13:05:03: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+INFO:PipelineLog:2023-07-26 13:05:06: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 13:05:08: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+INFO:PipelineLog:2023-07-26 13:05:13: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 13:05:17: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+INFO:PipelineLog:2023-07-26 13:05:22: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 13:05:24: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+INFO:PipelineLog:2023-07-26 13:05:29: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 13:05:31: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+INFO:PipelineLog:2023-07-26 13:05:33: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 13:05:35: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+INFO:PipelineLog:2023-07-26 13:05:40: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 13:05:43: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+INFO:PipelineLog:2023-07-26 13:05:46: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 13:05:51: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+INFO:PipelineLog:2023-07-26 13:05:54: Successfully executed procedure: UPDATEJOBPOST
+ERROR:PipelineLog:2023-07-26 13:05:56: Error while trying to execute procedure: UPDATECOMPANY : 1366 (HY000): Incorrect integer value: 'EC2A 4EB' for column 'CHQZIPCODE' at row 1 
+INFO:PipelineLog:jobState is LISTED
+INFO:PipelineLog:2023-07-26 13:06:00: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 13:06:03: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+INFO:PipelineLog:2023-07-26 13:06:08: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 13:06:11: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+INFO:PipelineLog:2023-07-26 13:06:15: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 13:06:19: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+INFO:PipelineLog:2023-07-26 13:06:24: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 13:06:27: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+INFO:PipelineLog:2023-07-26 13:06:29: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 13:06:34: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+INFO:PipelineLog:2023-07-26 13:06:37: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 13:06:40: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+INFO:PipelineLog:2023-07-26 13:06:46: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 13:06:48: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+INFO:PipelineLog:2023-07-26 13:06:53: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 13:06:57: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+INFO:PipelineLog:2023-07-26 13:07:00: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 13:07:05: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+INFO:PipelineLog:2023-07-26 13:07:07: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 13:07:10: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+INFO:PipelineLog:2023-07-26 13:07:14: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 13:07:18: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+INFO:PipelineLog:2023-07-26 13:07:24: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 13:07:28: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+INFO:PipelineLog:2023-07-26 13:07:31: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 13:07:35: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+INFO:PipelineLog:2023-07-26 13:07:40: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 13:07:44: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+INFO:PipelineLog:2023-07-26 13:07:48: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 13:07:51: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+INFO:PipelineLog:2023-07-26 13:07:55: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 13:07:57: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+INFO:PipelineLog:2023-07-26 13:08:01: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 13:08:07: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+INFO:PipelineLog:2023-07-26 13:08:12: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 13:08:15: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+INFO:PipelineLog:2023-07-26 13:08:20: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 13:08:23: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+INFO:PipelineLog:2023-07-26 13:08:26: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 13:08:29: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+INFO:PipelineLog:2023-07-26 13:08:31: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 13:08:35: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+INFO:PipelineLog:2023-07-26 13:08:39: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 13:08:45: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+INFO:PipelineLog:2023-07-26 13:08:50: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 13:08:52: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+INFO:PipelineLog:2023-07-26 13:08:57: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 13:09:00: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+INFO:PipelineLog:2023-07-26 13:09:02: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 13:09:08: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+INFO:PipelineLog:2023-07-26 13:09:12: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 13:09:16: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+INFO:PipelineLog:2023-07-26 13:09:22: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 13:09:24: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+INFO:PipelineLog:2023-07-26 13:09:27: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 13:09:31: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+INFO:PipelineLog:2023-07-26 13:09:35: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 13:09:38: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+INFO:PipelineLog:2023-07-26 13:09:43: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 13:09:48: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+INFO:PipelineLog:2023-07-26 13:09:52: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 13:09:57: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+INFO:PipelineLog:2023-07-26 13:10:03: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 13:10:07: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+INFO:PipelineLog:2023-07-26 13:10:12: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 13:10:16: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+INFO:PipelineLog:2023-07-26 13:10:22: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 13:10:26: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+INFO:PipelineLog:2023-07-26 13:10:29: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 13:10:35: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+INFO:PipelineLog:2023-07-26 13:10:39: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 13:10:44: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+INFO:PipelineLog:2023-07-26 13:10:49: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 13:10:54: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+INFO:PipelineLog:2023-07-26 13:10:58: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 13:11:03: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:jobState is LISTED
+INFO:PipelineLog:2023-07-26 13:11:07: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 13:11:11: Successfully executed procedure: UPDATECOMPANY

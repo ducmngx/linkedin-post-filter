@@ -2,22 +2,19 @@ import os, sys
 sys.path.insert(0, os.path.abspath("."))
 import lib.utils as utils
 from lib.clsMySQLDB import clsMySqlDatabase
+from datetime import datetime as dt
+
+import http.client 
+import requests
+import json
+from linkedin_api import Linkedin
+import json
+
+# credentials should be stored in a different file
+
+# Authenticate using any Linkedin account credentials
 
 if __name__ == "__main__":
-    # Execute the main function which starts the whole pipeline
-    
-    myDB = clsMySqlDatabase()
+    now = dt.now().date().isoformat()
 
-    myDB.start_connection()
-
-    # query = "INSERT INTO company_dimension VALUES (124, \"Meta\", \"CA\", \"www.meta.com\", \"tech\");"
-
-    # myDB.run_query(query)
-
-    get_query = "SELECT * FROM company_dimension;"
-    data = myDB.get_data(get_query)
-
-    for da in data:
-        print(da)
-
-    myDB.end_connection()
+    print(dt.now().date().weekday() )

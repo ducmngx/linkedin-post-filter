@@ -7,6 +7,11 @@ import logging
 from logging.handlers import WatchedFileHandler
 from datetime import datetime
 
+#--------------- Prefixed Variables --------------#
+
+JOB_TITLE_OF_INTEREST = ['Data Engineer', 'Data Analyst', 'Software Engineer', 'Machine Learning Engineer']
+
+#----------- End of Prefixed Variables -----------#
 
 #--------------- Logging utilities ---------------#
 # Logger

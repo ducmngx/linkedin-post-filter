@@ -1,0 +1,442 @@
+{
+    "dashEntityUrn": "urn:li:fsd_jobPosting:3664036119",
+    "companyDetails": {
+        "com.linkedin.voyager.deco.jobs.web.shared.WebCompactJobPostingCompany": {
+            "companyResolutionResult": {
+                "entityUrn": "urn:li:fs_normalized_company:69732469",
+                "name": "Acunor",
+                "logo": {
+                    "image": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1642807557950?e=1697673600&v=beta&t=xkc7puK5uzQEYmdeZDNUSlxwaN0h9OgZFxF8bEnyYpc",
+                                    "expiresAt": 1697673600000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1642807557950?e=1697673600&v=beta&t=aiUQa2LH25whtEtTsZm0qDhkdEUCSeGUcGMT3_anstw",
+                                    "expiresAt": 1697673600000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1642807557950?e=1697673600&v=beta&t=z0hteOskvQXXuShIlaBIPviXMPGDMkFz2dgon0QxY80",
+                                    "expiresAt": 1697673600000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQGMMKS2n5RYsQ/company-logo_"
+                        }
+                    },
+                    "type": "SQUARE_LOGO"
+                },
+                "$recipeType": "com.linkedin.voyager.deco.organization.shared.WebCompactCompany",
+                "universalName": "acunor",
+                "url": "https://www.linkedin.com/company/acunor"
+            },
+            "company": "urn:li:fs_normalized_company:69732469",
+            "$recipeType": "com.linkedin.voyager.deco.jobs.web.shared.WebCompactJobPostingCompany"
+        }
+    },
+    "jobState": "LISTED",
+    "description": {
+        "attributes": [
+            {
+                "start": 21,
+                "length": 17,
+                "type": {
+                    "com.linkedin.pemberly.text.Bold": {}
+                },
+                "attributeKindUnion": {
+                    "bold": {}
+                }
+            },
+            {
+                "start": 0,
+                "length": 218,
+                "type": {
+                    "com.linkedin.pemberly.text.Paragraph": {}
+                },
+                "attributeKindUnion": {
+                    "paragraph": {}
+                }
+            },
+            {
+                "start": 218,
+                "length": 1,
+                "type": {
+                    "com.linkedin.pemberly.text.LineBreak": {}
+                },
+                "attributeKindUnion": {
+                    "lineBreak": {}
+                }
+            },
+            {
+                "start": 218,
+                "length": 1,
+                "type": {
+                    "com.linkedin.pemberly.text.Paragraph": {}
+                },
+                "attributeKindUnion": {
+                    "paragraph": {}
+                }
+            },
+            {
+                "start": 219,
+                "length": 23,
+                "type": {
+                    "com.linkedin.pemberly.text.Bold": {}
+                },
+                "attributeKindUnion": {
+                    "bold": {}
+                }
+            },
+            {
+                "start": 219,
+                "length": 23,
+                "type": {
+                    "com.linkedin.pemberly.text.Paragraph": {}
+                },
+                "attributeKindUnion": {
+                    "paragraph": {}
+                }
+            },
+            {
+                "start": 242,
+                "length": 16,
+                "type": {
+                    "com.linkedin.pemberly.text.Bold": {}
+                },
+                "attributeKindUnion": {
+                    "bold": {}
+                }
+            },
+            {
+                "start": 242,
+                "length": 16,
+                "type": {
+                    "com.linkedin.pemberly.text.Paragraph": {}
+                },
+                "attributeKindUnion": {
+                    "paragraph": {}
+                }
+            },
+            {
+                "start": 258,
+                "length": 19,
+                "type": {
+                    "com.linkedin.pemberly.text.Bold": {}
+                },
+                "attributeKindUnion": {
+                    "bold": {}
+                }
+            },
+            {
+                "start": 258,
+                "length": 19,
+                "type": {
+                    "com.linkedin.pemberly.text.Paragraph": {}
+                },
+                "attributeKindUnion": {
+                    "paragraph": {}
+                }
+            },
+            {
+                "start": 277,
+                "length": 1,
+                "type": {
+                    "com.linkedin.pemberly.text.LineBreak": {}
+                },
+                "attributeKindUnion": {
+                    "lineBreak": {}
+                }
+            },
+            {
+                "start": 277,
+                "length": 1,
+                "type": {
+                    "com.linkedin.pemberly.text.Paragraph": {}
+                },
+                "attributeKindUnion": {
+                    "paragraph": {}
+                }
+            },
+            {
+                "start": 278,
+                "length": 43,
+                "type": {
+                    "com.linkedin.pemberly.text.Bold": {}
+                },
+                "attributeKindUnion": {
+                    "bold": {}
+                }
+            },
+            {
+                "start": 278,
+                "length": 43,
+                "type": {
+                    "com.linkedin.pemberly.text.Paragraph": {}
+                },
+                "attributeKindUnion": {
+                    "paragraph": {}
+                }
+            },
+            {
+                "start": 321,
+                "length": 1,
+                "type": {
+                    "com.linkedin.pemberly.text.LineBreak": {}
+                },
+                "attributeKindUnion": {
+                    "lineBreak": {}
+                }
+            },
+            {
+                "start": 321,
+                "length": 1,
+                "type": {
+                    "com.linkedin.pemberly.text.Paragraph": {}
+                },
+                "attributeKindUnion": {
+                    "paragraph": {}
+                }
+            },
+            {
+                "start": 322,
+                "length": 16,
+                "type": {
+                    "com.linkedin.pemberly.text.Bold": {}
+                },
+                "attributeKindUnion": {
+                    "bold": {}
+                }
+            },
+            {
+                "start": 322,
+                "length": 16,
+                "type": {
+                    "com.linkedin.pemberly.text.Paragraph": {}
+                },
+                "attributeKindUnion": {
+                    "paragraph": {}
+                }
+            },
+            {
+                "start": 352,
+                "length": 3,
+                "type": {
+                    "com.linkedin.pemberly.text.Bold": {}
+                },
+                "attributeKindUnion": {
+                    "bold": {}
+                }
+            },
+            {
+                "start": 338,
+                "length": 18,
+                "type": {
+                    "com.linkedin.pemberly.text.ListItem": {}
+                },
+                "attributeKindUnion": {
+                    "listItem": {}
+                }
+            },
+            {
+                "start": 370,
+                "length": 10,
+                "type": {
+                    "com.linkedin.pemberly.text.Bold": {}
+                },
+                "attributeKindUnion": {
+                    "bold": {}
+                }
+            },
+            {
+                "start": 356,
+                "length": 25,
+                "type": {
+                    "com.linkedin.pemberly.text.ListItem": {}
+                },
+                "attributeKindUnion": {
+                    "listItem": {}
+                }
+            },
+            {
+                "start": 395,
+                "length": 7,
+                "type": {
+                    "com.linkedin.pemberly.text.Bold": {}
+                },
+                "attributeKindUnion": {
+                    "bold": {}
+                }
+            },
+            {
+                "start": 381,
+                "length": 22,
+                "type": {
+                    "com.linkedin.pemberly.text.ListItem": {}
+                },
+                "attributeKindUnion": {
+                    "listItem": {}
+                }
+            },
+            {
+                "start": 417,
+                "length": 3,
+                "type": {
+                    "com.linkedin.pemberly.text.Bold": {}
+                },
+                "attributeKindUnion": {
+                    "bold": {}
+                }
+            },
+            {
+                "start": 403,
+                "length": 18,
+                "type": {
+                    "com.linkedin.pemberly.text.ListItem": {}
+                },
+                "attributeKindUnion": {
+                    "listItem": {}
+                }
+            },
+            {
+                "start": 435,
+                "length": 6,
+                "type": {
+                    "com.linkedin.pemberly.text.Bold": {}
+                },
+                "attributeKindUnion": {
+                    "bold": {}
+                }
+            },
+            {
+                "start": 421,
+                "length": 21,
+                "type": {
+                    "com.linkedin.pemberly.text.ListItem": {}
+                },
+                "attributeKindUnion": {
+                    "listItem": {}
+                }
+            },
+            {
+                "start": 338,
+                "length": 104,
+                "type": {
+                    "com.linkedin.pemberly.text.List": {
+                        "ordered": true
+                    }
+                },
+                "attributeKindUnion": {
+                    "list": {
+                        "ordered": true
+                    }
+                }
+            },
+            {
+                "start": 442,
+                "length": 14,
+                "type": {
+                    "com.linkedin.pemberly.text.Bold": {}
+                },
+                "attributeKindUnion": {
+                    "bold": {}
+                }
+            },
+            {
+                "start": 442,
+                "length": 14,
+                "type": {
+                    "com.linkedin.pemberly.text.Paragraph": {}
+                },
+                "attributeKindUnion": {
+                    "paragraph": {}
+                }
+            },
+            {
+                "start": 456,
+                "length": 6,
+                "type": {
+                    "com.linkedin.pemberly.text.ListItem": {}
+                },
+                "attributeKindUnion": {
+                    "listItem": {}
+                }
+            },
+            {
+                "start": 462,
+                "length": 17,
+                "type": {
+                    "com.linkedin.pemberly.text.ListItem": {}
+                },
+                "attributeKindUnion": {
+                    "listItem": {}
+                }
+            },
+            {
+                "start": 479,
+                "length": 11,
+                "type": {
+                    "com.linkedin.pemberly.text.ListItem": {}
+                },
+                "attributeKindUnion": {
+                    "listItem": {}
+                }
+            },
+            {
+                "start": 490,
+                "length": 3,
+                "type": {
+                    "com.linkedin.pemberly.text.ListItem": {}
+                },
+                "attributeKindUnion": {
+                    "listItem": {}
+                }
+            },
+            {
+                "start": 456,
+                "length": 37,
+                "type": {
+                    "com.linkedin.pemberly.text.List": {
+                        "ordered": false
+                    }
+                },
+                "attributeKindUnion": {
+                    "list": {
+                        "ordered": false
+                    }
+                }
+            }
+        ],
+        "text": "Acunor is hiring for GCP Data Engineer for one of its premier clients. This is a Contract position and Remote opportunity. Interested candidates are encouraged to apply with the most recent resume to chandra@acunor.com\nRole: GCP Data EngineerLocation: RemoteDuration: Long Term\nNote: Looking for CST/EST Consultants only \nJob description:Experience in GCP Experience in Big Query  Experience in Bigdata Experience in SQL Experience in Python Good to have: Kafka Containerization Kubernetes API"
+    },
+    "title": "GCP Data Engineer",
+    "entityUrn": "urn:li:fs_normalized_jobPosting:3664036119",
+    "workRemoteAllowed": true,
+    "applyMethod": {
+        "com.linkedin.voyager.jobs.ComplexOnsiteApply": {
+            "unifyApplyEnabled": true,
+            "easyApplyUrl": "https://www.linkedin.com/job-apply/3664036119"
+        }
+    },
+    "talentHubJob": false,
+    "formattedLocation": "United States",
+    "workplaceTypes": [
+        "urn:li:fs_workplaceType:2"
+    ],
+    "listedAt": 1689617298000,
+    "jobPostingId": 3664036119,
+    "$recipeType": "com.linkedin.voyager.deco.jobs.web.shared.WebLightJobPosting",
+    "workplaceTypesResolutionResults": {
+        "urn:li:fs_workplaceType:2": {
+            "localizedName": "Remote",
+            "$recipeType": "com.linkedin.voyager.deco.jobs.shared.WebJobDetailsWorkplaceType",
+            "entityUrn": "urn:li:fs_workplaceType:2"
+        }
+    }
+}

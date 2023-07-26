@@ -84,13 +84,21 @@ class clsMySqlDatabase(clsAbstractDatabase):
         query = f'DROP TABLE "{table_name}";'
         self.run_query(query)
 
-    def call_procedure(self, procedure_name: str):
+    def call_procedure(self, procedure_name, args):
         """Call a given procedure.
         :param procedure_name: name of the procedure.
         :return: None
         """
-        query = f'CALL {procedure_name};'
-        self.run_query(query)
+
+        cursor = self.conn.cursor()
+        try:
+            cursor.callproc(procedure_name, args)
+            self.commit()
+            self.logger.info(f"{utils.get_current_datetime()}: Successfully executed procedure: {procedure_name}")
+        except Exception as e:
+            self.logger.error(f"{utils.get_current_datetime()}: Error while trying to execute procedure: {procedure_name} : {e} ")
+        finally:
+            cursor.close()
     
     def commit(self):
         """Commit action.
