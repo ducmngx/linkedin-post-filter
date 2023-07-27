@@ -54,16 +54,20 @@ class LinkedInCrawler:
         except:
             cURL = "n/a"
         
-        cHQLocation = query['headquarter']
         try:
-            cHQAddress = cHQLocation['line1'] + ", " \
-                        + cHQLocation['city'] + ", " + cHQLocation['geographicArea'] + ", " + cHQLocation['country']
+            cHQLocation = query['headquarter']
+            try:
+                cHQAddress = cHQLocation['line1'] + ", " \
+                            + cHQLocation['city'] + ", " + cHQLocation['geographicArea'] + ", " + cHQLocation['country']
+            except:
+                cHQAddress = "n/a"
+
+            try:
+                cHQPostal = cHQLocation['postalCode']
+            except:
+                cHQPostal = 0
         except:
             cHQAddress = "n/a"
-
-        try:
-            cHQPostal = cHQLocation['postalCode']
-        except:
             cHQPostal = 0
         
         return cName, cField, cURL, cHQAddress, cHQPostal

@@ -565,3 +565,969 @@ INFO:PipelineLog:2023-07-26 13:11:03: Successfully executed procedure: UPDATECOM
 INFO:PipelineLog:jobState is LISTED
 INFO:PipelineLog:2023-07-26 13:11:07: Successfully executed procedure: UPDATEJOBPOST
 INFO:PipelineLog:2023-07-26 13:11:11: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:2023-07-26 18:53:09: MySQL connection is created.
+INFO:PipelineLog:2023-07-26 18:53:09: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `jobPost_facts` WHERE `jobPostingID` = '3634164629') as tbl;
+INFO:PipelineLog:2023-07-26 18:54:05: MySQL connection is created.
+INFO:PipelineLog:2023-07-26 18:54:05: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `jobPost_facts` WHERE `jobPostingID` = '3634164629') as tbl;
+INFO:PipelineLog:2023-07-26 18:54:20: MySQL connection is created.
+INFO:PipelineLog:2023-07-26 18:54:20: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `jobPost_facts` WHERE `jobPostingID` = '3634164629') as tbl;
+INFO:PipelineLog:2023-07-26 18:58:10: MySQL connection is created.
+INFO:PipelineLog:2023-07-26 18:58:18: MySQL connection is created.
+INFO:PipelineLog:2023-07-26 18:58:28: MySQL connection is created.
+INFO:PipelineLog:2023-07-26 18:58:28: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `jobPost_facts` WHERE `jobPostingID` = '3634164629') as tbl;
+INFO:PipelineLog:2023-07-26 18:58:37: MySQL connection is created.
+INFO:PipelineLog:2023-07-26 18:58:37: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `jobPost_facts` WHERE `jobPostingID` = 'hdauhau') as tbl;
+INFO:PipelineLog:2023-07-26 19:07:36: MySQL connection is created.
+INFO:PipelineLog:2023-07-26 19:07:37: Successfully executed procedure: UPDATEDATETIME
+INFO:PipelineLog:2023-07-26 19:07:53: Successfully extracted data for job post
+INFO:PipelineLog:2023-07-26 19:07:53: MySQL connection is closed.
+INFO:PipelineLog:2023-07-26 19:12:57: MySQL connection is created.
+INFO:PipelineLog:2023-07-26 19:12:59: Successfully executed procedure: UPDATEDATETIME
+INFO:PipelineLog:2023-07-26 19:13:12: Successfully extracted data for job post
+INFO:PipelineLog:2023-07-26 19:13:12: MySQL connection is closed.
+INFO:PipelineLog:2023-07-26 19:13:56: MySQL connection is created.
+INFO:PipelineLog:2023-07-26 19:13:58: Successfully executed procedure: UPDATEDATETIME
+INFO:PipelineLog:2023-07-26 19:14:11: Successfully extracted data for job post
+INFO:PipelineLog:2023-07-26 19:14:11: MySQL connection is closed.
+INFO:PipelineLog:2023-07-26 19:15:24: MySQL connection is created.
+INFO:PipelineLog:2023-07-26 19:15:26: Successfully executed procedure: UPDATEDATETIME
+INFO:PipelineLog:2023-07-26 19:15:40: Successfully extracted 4 job boards by title
+INFO:PipelineLog:2023-07-26 19:15:40: Successfully extracted data for job post
+INFO:PipelineLog:2023-07-26 19:15:40: MySQL connection is closed.
+INFO:PipelineLog:2023-07-26 19:17:55: MySQL connection is created.
+INFO:PipelineLog:2023-07-26 19:17:56: Successfully executed procedure: UPDATEDATETIME
+INFO:PipelineLog:2023-07-26 19:18:14: Successfully extracted 4 job boards by title
+INFO:PipelineLog:2023-07-26 19:18:14: Job board 1 with 0 jobs
+INFO:PipelineLog:2023-07-26 19:18:14: Job board 2 with 0 jobs
+INFO:PipelineLog:2023-07-26 19:18:14: Job board 3 with 0 jobs
+INFO:PipelineLog:2023-07-26 19:18:14: Job board 4 with 0 jobs
+INFO:PipelineLog:2023-07-26 19:18:14: Successfully extracted data for job post
+INFO:PipelineLog:2023-07-26 19:53:50: MySQL connection is created.
+INFO:PipelineLog:2023-07-26 19:54:41: MySQL connection is created.
+INFO:PipelineLog:2023-07-26 19:54:43: Successfully executed procedure: UPDATEDATETIME
+INFO:PipelineLog:2023-07-26 20:00:58: Successfully extracted 4 job boards by title
+INFO:PipelineLog:2023-07-26 20:00:58: Job board 1 with 1000 jobs
+INFO:PipelineLog:2023-07-26 20:00:58: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1007957') as tbl;
+INFO:PipelineLog:2023-07-26 20:00:58: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1007957') as tbl;
+ERROR:PipelineLog:2023-07-26 20:01:01: Error while trying to execute procedure: UPDATECOMPANY : 1406 (22001): Data too long for column 'CHQADDRESS' at row 1 
+INFO:PipelineLog:2023-07-26 20:01:01: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3675920967') as tbl;
+INFO:PipelineLog:2023-07-26 20:01:06: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:01:06: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1235') as tbl;
+INFO:PipelineLog:2023-07-26 20:01:06: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1235') as tbl;
+INFO:PipelineLog:2023-07-26 20:01:09: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:2023-07-26 20:01:09: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3676769473') as tbl;
+INFO:PipelineLog:2023-07-26 20:01:14: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:01:14: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1038') as tbl;
+INFO:PipelineLog:2023-07-26 20:01:14: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1038') as tbl;
+INFO:PipelineLog:Company listed is already in database.
+INFO:PipelineLog:2023-07-26 20:01:14: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3672956321') as tbl;
+INFO:PipelineLog:2023-07-26 20:01:17: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:01:17: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '2381') as tbl;
+INFO:PipelineLog:2023-07-26 20:01:17: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '2381') as tbl;
+INFO:PipelineLog:2023-07-26 20:01:21: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:2023-07-26 20:01:21: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3673329233') as tbl;
+INFO:PipelineLog:2023-07-26 20:01:25: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:01:25: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '10667') as tbl;
+INFO:PipelineLog:2023-07-26 20:01:25: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '10667') as tbl;
+INFO:PipelineLog:2023-07-26 20:01:28: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:2023-07-26 20:01:28: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3676780820') as tbl;
+INFO:PipelineLog:2023-07-26 20:01:32: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:01:32: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3762') as tbl;
+INFO:PipelineLog:2023-07-26 20:01:32: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3762') as tbl;
+INFO:PipelineLog:2023-07-26 20:01:34: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:2023-07-26 20:01:34: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3673345245') as tbl;
+INFO:PipelineLog:2023-07-26 20:01:37: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:01:37: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '2646') as tbl;
+INFO:PipelineLog:2023-07-26 20:01:37: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '2646') as tbl;
+INFO:PipelineLog:2023-07-26 20:01:41: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:2023-07-26 20:01:41: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3676782642') as tbl;
+INFO:PipelineLog:2023-07-26 20:01:47: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:01:47: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '6849') as tbl;
+INFO:PipelineLog:2023-07-26 20:01:47: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '6849') as tbl;
+ERROR:PipelineLog:2023-07-26 20:01:50: Error while trying to execute procedure: UPDATECOMPANY : 1406 (22001): Data too long for column 'CHQADDRESS' at row 1 
+INFO:PipelineLog:2023-07-26 20:01:50: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3669855147') as tbl;
+INFO:PipelineLog:2023-07-26 20:01:54: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:01:54: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '6849') as tbl;
+INFO:PipelineLog:2023-07-26 20:01:54: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '6849') as tbl;
+ERROR:PipelineLog:2023-07-26 20:01:59: Error while trying to execute procedure: UPDATECOMPANY : 1406 (22001): Data too long for column 'CHQADDRESS' at row 1 
+INFO:PipelineLog:2023-07-26 20:01:59: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3676256803') as tbl;
+INFO:PipelineLog:2023-07-26 20:02:02: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:02:02: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '6184') as tbl;
+INFO:PipelineLog:2023-07-26 20:02:02: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '6184') as tbl;
+ERROR:PipelineLog:2023-07-26 20:02:05: Error while trying to execute procedure: UPDATECOMPANY : 1265 (01000): Data truncated for column 'CHQZIPCODE' at row 1 
+INFO:PipelineLog:2023-07-26 20:02:05: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3676512243') as tbl;
+INFO:PipelineLog:2023-07-26 20:02:08: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:02:08: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1441') as tbl;
+INFO:PipelineLog:2023-07-26 20:02:08: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1441') as tbl;
+INFO:PipelineLog:Company listed is already in database.
+INFO:PipelineLog:2023-07-26 20:02:08: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3675394870') as tbl;
+INFO:PipelineLog:2023-07-26 20:02:11: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:02:11: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '166612') as tbl;
+INFO:PipelineLog:2023-07-26 20:02:11: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '166612') as tbl;
+INFO:PipelineLog:2023-07-26 20:02:13: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:2023-07-26 20:02:13: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3668022888') as tbl;
+INFO:PipelineLog:2023-07-26 20:02:17: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:02:17: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1103') as tbl;
+INFO:PipelineLog:2023-07-26 20:02:17: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1103') as tbl;
+ERROR:PipelineLog:2023-07-26 20:02:22: Error while trying to execute procedure: UPDATECOMPANY : 1265 (01000): Data truncated for column 'CHQZIPCODE' at row 1 
+INFO:PipelineLog:2023-07-26 20:02:22: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3676294802') as tbl;
+INFO:PipelineLog:2023-07-26 20:02:26: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:02:26: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1103') as tbl;
+INFO:PipelineLog:2023-07-26 20:02:26: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1103') as tbl;
+ERROR:PipelineLog:2023-07-26 20:02:28: Error while trying to execute procedure: UPDATECOMPANY : 1265 (01000): Data truncated for column 'CHQZIPCODE' at row 1 
+INFO:PipelineLog:2023-07-26 20:02:28: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3676296748') as tbl;
+INFO:PipelineLog:2023-07-26 20:02:32: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:02:32: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '6849') as tbl;
+INFO:PipelineLog:2023-07-26 20:02:32: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '6849') as tbl;
+ERROR:PipelineLog:2023-07-26 20:02:35: Error while trying to execute procedure: UPDATECOMPANY : 1406 (22001): Data too long for column 'CHQADDRESS' at row 1 
+INFO:PipelineLog:2023-07-26 20:02:35: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3676253973') as tbl;
+INFO:PipelineLog:2023-07-26 20:02:37: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:02:37: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '11067') as tbl;
+INFO:PipelineLog:2023-07-26 20:02:37: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '11067') as tbl;
+INFO:PipelineLog:2023-07-26 20:02:41: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:2023-07-26 20:02:41: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3659439985') as tbl;
+INFO:PipelineLog:2023-07-26 20:02:45: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:02:45: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '6849') as tbl;
+INFO:PipelineLog:2023-07-26 20:02:45: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '6849') as tbl;
+ERROR:PipelineLog:2023-07-26 20:02:50: Error while trying to execute procedure: UPDATECOMPANY : 1406 (22001): Data too long for column 'CHQADDRESS' at row 1 
+INFO:PipelineLog:2023-07-26 20:02:50: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3676260416') as tbl;
+INFO:PipelineLog:2023-07-26 20:02:52: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:02:52: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '37871') as tbl;
+INFO:PipelineLog:2023-07-26 20:02:52: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '37871') as tbl;
+INFO:PipelineLog:2023-07-26 20:02:56: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:2023-07-26 20:02:56: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3675769653') as tbl;
+INFO:PipelineLog:2023-07-26 20:02:58: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:02:58: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '2219') as tbl;
+INFO:PipelineLog:2023-07-26 20:02:58: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '2219') as tbl;
+INFO:PipelineLog:2023-07-26 20:03:02: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:2023-07-26 20:03:02: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3552724802') as tbl;
+INFO:PipelineLog:2023-07-26 20:03:04: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:03:04: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '166796') as tbl;
+INFO:PipelineLog:2023-07-26 20:03:04: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '166796') as tbl;
+INFO:PipelineLog:2023-07-26 20:03:09: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:2023-07-26 20:03:09: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3676292490') as tbl;
+INFO:PipelineLog:2023-07-26 20:03:13: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:03:13: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '6849') as tbl;
+INFO:PipelineLog:2023-07-26 20:03:13: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '6849') as tbl;
+ERROR:PipelineLog:2023-07-26 20:03:17: Error while trying to execute procedure: UPDATECOMPANY : 1406 (22001): Data too long for column 'CHQADDRESS' at row 1 
+INFO:PipelineLog:2023-07-26 20:03:17: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3676264135') as tbl;
+INFO:PipelineLog:2023-07-26 20:03:21: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:03:21: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1441') as tbl;
+INFO:PipelineLog:2023-07-26 20:03:21: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1441') as tbl;
+INFO:PipelineLog:Company listed is already in database.
+INFO:PipelineLog:2023-07-26 20:03:21: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3675271343') as tbl;
+INFO:PipelineLog:2023-07-26 20:03:26: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:03:26: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '2382910') as tbl;
+INFO:PipelineLog:2023-07-26 20:03:26: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '2382910') as tbl;
+INFO:PipelineLog:2023-07-26 20:03:32: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:2023-07-26 20:03:32: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3673340989') as tbl;
+INFO:PipelineLog:2023-07-26 20:03:36: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:03:36: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '21836') as tbl;
+INFO:PipelineLog:2023-07-26 20:03:36: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '21836') as tbl;
+INFO:PipelineLog:Company listed is already in database.
+INFO:PipelineLog:2023-07-26 20:03:36: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3675323364') as tbl;
+INFO:PipelineLog:2023-07-26 20:03:38: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:03:38: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1068') as tbl;
+INFO:PipelineLog:2023-07-26 20:03:38: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1068') as tbl;
+ERROR:PipelineLog:2023-07-26 20:03:41: Error while trying to execute procedure: UPDATECOMPANY : 1265 (01000): Data truncated for column 'CHQZIPCODE' at row 1 
+INFO:PipelineLog:2023-07-26 20:03:41: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3672966907') as tbl;
+INFO:PipelineLog:2023-07-26 20:03:45: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:03:45: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3118688') as tbl;
+INFO:PipelineLog:2023-07-26 20:03:45: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3118688') as tbl;
+INFO:PipelineLog:2023-07-26 20:03:47: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:2023-07-26 20:03:47: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3675690712') as tbl;
+INFO:PipelineLog:2023-07-26 20:03:49: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:03:49: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '2065236') as tbl;
+INFO:PipelineLog:2023-07-26 20:03:49: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '2065236') as tbl;
+INFO:PipelineLog:2023-07-26 20:03:54: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:2023-07-26 20:03:54: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3677004220') as tbl;
+INFO:PipelineLog:2023-07-26 20:03:58: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:03:58: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1772177') as tbl;
+INFO:PipelineLog:2023-07-26 20:03:58: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1772177') as tbl;
+INFO:PipelineLog:2023-07-26 20:04:01: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:2023-07-26 20:04:01: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3630057107') as tbl;
+INFO:PipelineLog:2023-07-26 20:04:06: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:04:06: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3118688') as tbl;
+INFO:PipelineLog:2023-07-26 20:04:06: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3118688') as tbl;
+INFO:PipelineLog:Company listed is already in database.
+INFO:PipelineLog:2023-07-26 20:04:06: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3675690836') as tbl;
+INFO:PipelineLog:2023-07-26 20:04:09: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:04:09: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1318') as tbl;
+INFO:PipelineLog:2023-07-26 20:04:09: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1318') as tbl;
+INFO:PipelineLog:2023-07-26 20:04:12: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:2023-07-26 20:04:12: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3675796140') as tbl;
+INFO:PipelineLog:2023-07-26 20:04:17: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:04:17: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '27179912') as tbl;
+INFO:PipelineLog:2023-07-26 20:04:17: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '27179912') as tbl;
+INFO:PipelineLog:2023-07-26 20:04:20: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:2023-07-26 20:04:20: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3642455699') as tbl;
+INFO:PipelineLog:2023-07-26 20:04:25: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:04:25: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '166459') as tbl;
+INFO:PipelineLog:2023-07-26 20:04:25: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '166459') as tbl;
+INFO:PipelineLog:2023-07-26 20:04:30: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:2023-07-26 20:04:30: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3676006382') as tbl;
+INFO:PipelineLog:2023-07-26 20:04:32: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:04:32: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '6849') as tbl;
+INFO:PipelineLog:2023-07-26 20:04:32: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '6849') as tbl;
+ERROR:PipelineLog:2023-07-26 20:04:36: Error while trying to execute procedure: UPDATECOMPANY : 1406 (22001): Data too long for column 'CHQADDRESS' at row 1 
+INFO:PipelineLog:2023-07-26 20:04:36: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3676258606') as tbl;
+INFO:PipelineLog:2023-07-26 20:04:42: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:04:42: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1007957') as tbl;
+INFO:PipelineLog:2023-07-26 20:04:42: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1007957') as tbl;
+ERROR:PipelineLog:2023-07-26 20:04:45: Error while trying to execute procedure: UPDATECOMPANY : 1406 (22001): Data too long for column 'CHQADDRESS' at row 1 
+INFO:PipelineLog:2023-07-26 20:04:45: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3675931156') as tbl;
+INFO:PipelineLog:2023-07-26 20:04:47: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:04:47: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1116') as tbl;
+INFO:PipelineLog:2023-07-26 20:04:47: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1116') as tbl;
+INFO:PipelineLog:2023-07-26 20:04:51: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:2023-07-26 20:04:51: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3676778720') as tbl;
+INFO:PipelineLog:2023-07-26 20:04:54: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:04:54: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '2934') as tbl;
+INFO:PipelineLog:2023-07-26 20:04:54: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '2934') as tbl;
+INFO:PipelineLog:2023-07-26 20:04:56: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:2023-07-26 20:04:56: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3676237148') as tbl;
+INFO:PipelineLog:2023-07-26 20:05:01: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:05:01: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '164754') as tbl;
+INFO:PipelineLog:2023-07-26 20:05:01: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '164754') as tbl;
+INFO:PipelineLog:2023-07-26 20:05:04: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:2023-07-26 20:05:04: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3676037121') as tbl;
+INFO:PipelineLog:2023-07-26 20:05:07: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:05:07: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1038') as tbl;
+INFO:PipelineLog:2023-07-26 20:05:07: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1038') as tbl;
+INFO:PipelineLog:Company listed is already in database.
+INFO:PipelineLog:2023-07-26 20:05:07: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3673158377') as tbl;
+INFO:PipelineLog:2023-07-26 20:05:10: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:05:10: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '2381') as tbl;
+INFO:PipelineLog:2023-07-26 20:05:10: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '2381') as tbl;
+INFO:PipelineLog:Company listed is already in database.
+INFO:PipelineLog:2023-07-26 20:05:10: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3673324893') as tbl;
+INFO:PipelineLog:2023-07-26 20:05:12: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:05:12: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '493453') as tbl;
+INFO:PipelineLog:2023-07-26 20:05:12: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '493453') as tbl;
+INFO:PipelineLog:2023-07-26 20:05:14: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:2023-07-26 20:05:14: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3676033362') as tbl;
+INFO:PipelineLog:2023-07-26 20:05:18: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:05:18: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '10673') as tbl;
+INFO:PipelineLog:2023-07-26 20:05:18: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '10673') as tbl;
+INFO:PipelineLog:2023-07-26 20:05:22: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:2023-07-26 20:05:22: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3676786502') as tbl;
+INFO:PipelineLog:2023-07-26 20:05:26: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:05:26: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '40018') as tbl;
+INFO:PipelineLog:2023-07-26 20:05:26: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '40018') as tbl;
+INFO:PipelineLog:2023-07-26 20:05:31: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:2023-07-26 20:05:31: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3676243676') as tbl;
+INFO:PipelineLog:2023-07-26 20:05:34: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:05:34: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1441') as tbl;
+INFO:PipelineLog:2023-07-26 20:05:34: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1441') as tbl;
+INFO:PipelineLog:Company listed is already in database.
+INFO:PipelineLog:2023-07-26 20:05:34: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3675596535') as tbl;
+INFO:PipelineLog:2023-07-26 20:05:36: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:05:36: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '15564') as tbl;
+INFO:PipelineLog:2023-07-26 20:05:36: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '15564') as tbl;
+INFO:PipelineLog:2023-07-26 20:05:42: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:2023-07-26 20:05:42: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3675790292') as tbl;
+INFO:PipelineLog:2023-07-26 20:05:45: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:05:45: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '2381') as tbl;
+INFO:PipelineLog:2023-07-26 20:05:45: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '2381') as tbl;
+INFO:PipelineLog:Company listed is already in database.
+INFO:PipelineLog:2023-07-26 20:05:45: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3673324896') as tbl;
+INFO:PipelineLog:2023-07-26 20:05:47: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:05:47: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '6184') as tbl;
+INFO:PipelineLog:2023-07-26 20:05:47: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '6184') as tbl;
+ERROR:PipelineLog:2023-07-26 20:05:50: Error while trying to execute procedure: UPDATECOMPANY : 1265 (01000): Data truncated for column 'CHQZIPCODE' at row 1 
+INFO:PipelineLog:2023-07-26 20:05:50: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3676506916') as tbl;
+INFO:PipelineLog:2023-07-26 20:05:53: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:05:53: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '43470') as tbl;
+INFO:PipelineLog:2023-07-26 20:05:53: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '43470') as tbl;
+INFO:PipelineLog:2023-07-26 20:05:57: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:2023-07-26 20:05:57: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3676029275') as tbl;
+INFO:PipelineLog:2023-07-26 20:06:00: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:06:00: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '6849') as tbl;
+INFO:PipelineLog:2023-07-26 20:06:00: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '6849') as tbl;
+ERROR:PipelineLog:2023-07-26 20:06:03: Error while trying to execute procedure: UPDATECOMPANY : 1406 (22001): Data too long for column 'CHQADDRESS' at row 1 
+INFO:PipelineLog:2023-07-26 20:06:03: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3676257705') as tbl;
+INFO:PipelineLog:2023-07-26 20:06:05: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:06:05: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '6849') as tbl;
+INFO:PipelineLog:2023-07-26 20:06:05: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '6849') as tbl;
+ERROR:PipelineLog:2023-07-26 20:06:08: Error while trying to execute procedure: UPDATECOMPANY : 1406 (22001): Data too long for column 'CHQADDRESS' at row 1 
+INFO:PipelineLog:2023-07-26 20:06:08: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3676259644') as tbl;
+INFO:PipelineLog:2023-07-26 20:06:11: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:06:11: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1441') as tbl;
+INFO:PipelineLog:2023-07-26 20:06:11: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1441') as tbl;
+INFO:PipelineLog:Company listed is already in database.
+INFO:PipelineLog:2023-07-26 20:06:11: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3675266758') as tbl;
+INFO:PipelineLog:2023-07-26 20:06:15: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:06:15: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '10510386') as tbl;
+INFO:PipelineLog:2023-07-26 20:06:15: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '10510386') as tbl;
+INFO:PipelineLog:2023-07-26 20:06:19: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:2023-07-26 20:06:19: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3673195929') as tbl;
+INFO:PipelineLog:2023-07-26 20:06:21: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:06:21: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1059707') as tbl;
+INFO:PipelineLog:2023-07-26 20:06:21: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1059707') as tbl;
+ERROR:PipelineLog:2023-07-26 20:06:25: Error while trying to execute procedure: UPDATECOMPANY : 1406 (22001): Data too long for column 'CHQADDRESS' at row 1 
+INFO:PipelineLog:2023-07-26 20:06:25: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3675692758') as tbl;
+INFO:PipelineLog:2023-07-26 20:06:30: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:06:30: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '10667') as tbl;
+INFO:PipelineLog:2023-07-26 20:06:30: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '10667') as tbl;
+INFO:PipelineLog:Company listed is already in database.
+INFO:PipelineLog:2023-07-26 20:06:30: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3676157886') as tbl;
+INFO:PipelineLog:2023-07-26 20:06:35: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:06:35: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '40018') as tbl;
+INFO:PipelineLog:2023-07-26 20:06:35: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '40018') as tbl;
+INFO:PipelineLog:Company listed is already in database.
+INFO:PipelineLog:2023-07-26 20:06:35: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3675624140') as tbl;
+INFO:PipelineLog:2023-07-26 20:06:40: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:06:40: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3118688') as tbl;
+INFO:PipelineLog:2023-07-26 20:06:40: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3118688') as tbl;
+INFO:PipelineLog:Company listed is already in database.
+INFO:PipelineLog:2023-07-26 20:06:40: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3675687968') as tbl;
+INFO:PipelineLog:2023-07-26 20:06:42: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:06:42: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '4501') as tbl;
+INFO:PipelineLog:2023-07-26 20:06:42: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '4501') as tbl;
+INFO:PipelineLog:2023-07-26 20:06:46: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:2023-07-26 20:06:46: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3675594163') as tbl;
+INFO:PipelineLog:2023-07-26 20:06:51: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:06:51: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1472') as tbl;
+INFO:PipelineLog:2023-07-26 20:06:51: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1472') as tbl;
+INFO:PipelineLog:2023-07-26 20:06:54: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:2023-07-26 20:06:54: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3655430493') as tbl;
+INFO:PipelineLog:2023-07-26 20:06:59: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:06:59: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '29289303') as tbl;
+INFO:PipelineLog:2023-07-26 20:06:59: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '29289303') as tbl;
+INFO:PipelineLog:2023-07-26 20:07:02: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:2023-07-26 20:07:02: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3632572026') as tbl;
+INFO:PipelineLog:2023-07-26 20:07:06: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:07:06: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '21836') as tbl;
+INFO:PipelineLog:2023-07-26 20:07:06: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '21836') as tbl;
+INFO:PipelineLog:Company listed is already in database.
+INFO:PipelineLog:2023-07-26 20:07:06: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3675324326') as tbl;
+INFO:PipelineLog:2023-07-26 20:07:10: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:07:10: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '2646') as tbl;
+INFO:PipelineLog:2023-07-26 20:07:10: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '2646') as tbl;
+INFO:PipelineLog:Company listed is already in database.
+INFO:PipelineLog:2023-07-26 20:07:10: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3676778223') as tbl;
+INFO:PipelineLog:2023-07-26 20:07:13: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:07:13: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1103') as tbl;
+INFO:PipelineLog:2023-07-26 20:07:13: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1103') as tbl;
+ERROR:PipelineLog:2023-07-26 20:07:16: Error while trying to execute procedure: UPDATECOMPANY : 1265 (01000): Data truncated for column 'CHQZIPCODE' at row 1 
+INFO:PipelineLog:2023-07-26 20:07:16: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3676296747') as tbl;
+INFO:PipelineLog:2023-07-26 20:07:19: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:07:19: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '40956') as tbl;
+INFO:PipelineLog:2023-07-26 20:07:19: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '40956') as tbl;
+ERROR:PipelineLog:2023-07-26 20:07:23: Error while trying to execute procedure: UPDATECOMPANY : 1406 (22001): Data too long for column 'CHQADDRESS' at row 1 
+INFO:PipelineLog:2023-07-26 20:07:23: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3660426403') as tbl;
+INFO:PipelineLog:2023-07-26 20:07:29: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:07:29: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1068') as tbl;
+INFO:PipelineLog:2023-07-26 20:07:29: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1068') as tbl;
+ERROR:PipelineLog:2023-07-26 20:07:34: Error while trying to execute procedure: UPDATECOMPANY : 1265 (01000): Data truncated for column 'CHQZIPCODE' at row 1 
+INFO:PipelineLog:2023-07-26 20:07:34: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3672969290') as tbl;
+INFO:PipelineLog:2023-07-26 20:07:38: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:07:38: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '166612') as tbl;
+INFO:PipelineLog:2023-07-26 20:07:38: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '166612') as tbl;
+INFO:PipelineLog:Company listed is already in database.
+INFO:PipelineLog:2023-07-26 20:07:38: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3638535939') as tbl;
+INFO:PipelineLog:2023-07-26 20:07:41: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:07:41: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '6849') as tbl;
+INFO:PipelineLog:2023-07-26 20:07:41: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '6849') as tbl;
+ERROR:PipelineLog:2023-07-26 20:07:44: Error while trying to execute procedure: UPDATECOMPANY : 1406 (22001): Data too long for column 'CHQADDRESS' at row 1 
+INFO:PipelineLog:2023-07-26 20:07:44: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3666860875') as tbl;
+INFO:PipelineLog:2023-07-26 20:07:50: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:07:50: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '40956') as tbl;
+INFO:PipelineLog:2023-07-26 20:07:50: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '40956') as tbl;
+ERROR:PipelineLog:2023-07-26 20:07:53: Error while trying to execute procedure: UPDATECOMPANY : 1406 (22001): Data too long for column 'CHQADDRESS' at row 1 
+INFO:PipelineLog:2023-07-26 20:07:53: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3399432132') as tbl;
+INFO:PipelineLog:2023-07-26 20:07:58: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:07:58: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '6849') as tbl;
+INFO:PipelineLog:2023-07-26 20:07:58: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '6849') as tbl;
+ERROR:PipelineLog:2023-07-26 20:08:03: Error while trying to execute procedure: UPDATECOMPANY : 1406 (22001): Data too long for column 'CHQADDRESS' at row 1 
+INFO:PipelineLog:2023-07-26 20:08:03: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3676262156') as tbl;
+INFO:PipelineLog:2023-07-26 20:08:07: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:08:07: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1007957') as tbl;
+INFO:PipelineLog:2023-07-26 20:08:07: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1007957') as tbl;
+ERROR:PipelineLog:2023-07-26 20:08:12: Error while trying to execute procedure: UPDATECOMPANY : 1406 (22001): Data too long for column 'CHQADDRESS' at row 1 
+INFO:PipelineLog:2023-07-26 20:08:12: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3675920892') as tbl;
+INFO:PipelineLog:2023-07-26 20:08:17: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:08:17: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1353') as tbl;
+INFO:PipelineLog:2023-07-26 20:08:17: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1353') as tbl;
+INFO:PipelineLog:2023-07-26 20:08:19: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:2023-07-26 20:08:19: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3675768817') as tbl;
+INFO:PipelineLog:2023-07-26 20:08:22: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:08:22: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1441') as tbl;
+INFO:PipelineLog:2023-07-26 20:08:22: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1441') as tbl;
+INFO:PipelineLog:Company listed is already in database.
+INFO:PipelineLog:2023-07-26 20:08:22: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3675271146') as tbl;
+INFO:PipelineLog:2023-07-26 20:08:26: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:08:26: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '6849') as tbl;
+INFO:PipelineLog:2023-07-26 20:08:26: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '6849') as tbl;
+ERROR:PipelineLog:2023-07-26 20:08:32: Error while trying to execute procedure: UPDATECOMPANY : 1406 (22001): Data too long for column 'CHQADDRESS' at row 1 
+INFO:PipelineLog:2023-07-26 20:08:32: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3676264173') as tbl;
+INFO:PipelineLog:2023-07-26 20:08:34: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:08:34: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1441') as tbl;
+INFO:PipelineLog:2023-07-26 20:08:34: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1441') as tbl;
+INFO:PipelineLog:Company listed is already in database.
+INFO:PipelineLog:2023-07-26 20:08:34: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3675597202') as tbl;
+INFO:PipelineLog:2023-07-26 20:08:39: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:08:39: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1353') as tbl;
+INFO:PipelineLog:2023-07-26 20:08:39: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1353') as tbl;
+INFO:PipelineLog:Company listed is already in database.
+INFO:PipelineLog:2023-07-26 20:08:39: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3675767922') as tbl;
+INFO:PipelineLog:2023-07-26 20:08:43: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:08:43: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '976846') as tbl;
+INFO:PipelineLog:2023-07-26 20:08:43: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '976846') as tbl;
+INFO:PipelineLog:2023-07-26 20:08:45: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:2023-07-26 20:08:45: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3673181599') as tbl;
+INFO:PipelineLog:2023-07-26 20:08:49: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:08:49: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '6849') as tbl;
+INFO:PipelineLog:2023-07-26 20:08:49: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '6849') as tbl;
+ERROR:PipelineLog:2023-07-26 20:08:51: Error while trying to execute procedure: UPDATECOMPANY : 1406 (22001): Data too long for column 'CHQADDRESS' at row 1 
+INFO:PipelineLog:2023-07-26 20:08:51: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3676266150') as tbl;
+INFO:PipelineLog:2023-07-26 20:08:54: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:08:54: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1586') as tbl;
+INFO:PipelineLog:2023-07-26 20:08:54: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1586') as tbl;
+INFO:PipelineLog:2023-07-26 20:08:56: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:2023-07-26 20:08:56: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3630371460') as tbl;
+INFO:PipelineLog:2023-07-26 20:08:59: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:08:59: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '6849') as tbl;
+INFO:PipelineLog:2023-07-26 20:08:59: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '6849') as tbl;
+ERROR:PipelineLog:2023-07-26 20:09:02: Error while trying to execute procedure: UPDATECOMPANY : 1406 (22001): Data too long for column 'CHQADDRESS' at row 1 
+INFO:PipelineLog:2023-07-26 20:09:02: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3676258734') as tbl;
+INFO:PipelineLog:2023-07-26 20:09:06: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:09:06: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '6849') as tbl;
+INFO:PipelineLog:2023-07-26 20:09:06: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '6849') as tbl;
+ERROR:PipelineLog:2023-07-26 20:09:10: Error while trying to execute procedure: UPDATECOMPANY : 1406 (22001): Data too long for column 'CHQADDRESS' at row 1 
+INFO:PipelineLog:2023-07-26 20:09:10: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3676257875') as tbl;
+INFO:PipelineLog:2023-07-26 20:09:13: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:09:13: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '162479') as tbl;
+INFO:PipelineLog:2023-07-26 20:09:13: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '162479') as tbl;
+INFO:PipelineLog:2023-07-26 20:09:18: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:2023-07-26 20:09:18: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3630165856') as tbl;
+INFO:PipelineLog:2023-07-26 20:09:20: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:09:20: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '4501') as tbl;
+INFO:PipelineLog:2023-07-26 20:09:20: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '4501') as tbl;
+INFO:PipelineLog:Company listed is already in database.
+INFO:PipelineLog:2023-07-26 20:09:20: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3675593459') as tbl;
+INFO:PipelineLog:2023-07-26 20:09:23: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:09:23: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1227813') as tbl;
+INFO:PipelineLog:2023-07-26 20:09:23: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1227813') as tbl;
+INFO:PipelineLog:2023-07-26 20:09:25: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:2023-07-26 20:09:25: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3670512753') as tbl;
+INFO:PipelineLog:2023-07-26 20:09:29: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:09:29: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '42221') as tbl;
+INFO:PipelineLog:2023-07-26 20:09:29: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '42221') as tbl;
+ERROR:PipelineLog:2023-07-26 20:09:32: Error while trying to execute procedure: UPDATECOMPANY : 1406 (22001): Data too long for column 'CHQADDRESS' at row 1 
+INFO:PipelineLog:2023-07-26 20:09:32: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3646359861') as tbl;
+INFO:PipelineLog:2023-07-26 20:09:35: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:09:35: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1103') as tbl;
+INFO:PipelineLog:2023-07-26 20:09:35: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1103') as tbl;
+ERROR:PipelineLog:2023-07-26 20:09:40: Error while trying to execute procedure: UPDATECOMPANY : 1265 (01000): Data truncated for column 'CHQZIPCODE' at row 1 
+INFO:PipelineLog:2023-07-26 20:09:40: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3676296724') as tbl;
+INFO:PipelineLog:2023-07-26 20:09:44: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:09:44: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '249657') as tbl;
+INFO:PipelineLog:2023-07-26 20:09:44: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '249657') as tbl;
+INFO:PipelineLog:2023-07-26 20:09:47: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:2023-07-26 20:09:47: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3676787966') as tbl;
+INFO:PipelineLog:2023-07-26 20:09:52: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:09:52: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '35143') as tbl;
+INFO:PipelineLog:2023-07-26 20:09:52: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '35143') as tbl;
+INFO:PipelineLog:2023-07-26 20:09:55: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:2023-07-26 20:09:55: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3676263551') as tbl;
+INFO:PipelineLog:2023-07-26 20:09:58: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:09:58: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '6849') as tbl;
+INFO:PipelineLog:2023-07-26 20:09:58: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '6849') as tbl;
+ERROR:PipelineLog:2023-07-26 20:10:02: Error while trying to execute procedure: UPDATECOMPANY : 1406 (22001): Data too long for column 'CHQADDRESS' at row 1 
+INFO:PipelineLog:2023-07-26 20:10:02: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3676255818') as tbl;
+INFO:PipelineLog:2023-07-26 20:10:04: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:10:04: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '167251') as tbl;
+INFO:PipelineLog:2023-07-26 20:10:04: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '167251') as tbl;
+INFO:PipelineLog:2023-07-26 20:10:09: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:2023-07-26 20:10:09: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3560410029') as tbl;
+INFO:PipelineLog:2023-07-26 20:10:12: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:10:12: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '6849') as tbl;
+INFO:PipelineLog:2023-07-26 20:10:12: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '6849') as tbl;
+ERROR:PipelineLog:2023-07-26 20:10:14: Error while trying to execute procedure: UPDATECOMPANY : 1406 (22001): Data too long for column 'CHQADDRESS' at row 1 
+INFO:PipelineLog:2023-07-26 20:10:14: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3676255934') as tbl;
+INFO:PipelineLog:2023-07-26 20:10:19: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:10:19: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '18676989') as tbl;
+INFO:PipelineLog:2023-07-26 20:10:19: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '18676989') as tbl;
+ERROR:PipelineLog:2023-07-26 20:10:21: Error while trying to execute procedure: UPDATECOMPANY : 1366 (HY000): Incorrect integer value: 'BS1 2BD' for column 'CHQZIPCODE' at row 1 
+INFO:PipelineLog:2023-07-26 20:10:21: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3675560255') as tbl;
+INFO:PipelineLog:2023-07-26 20:10:24: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:10:24: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1025') as tbl;
+INFO:PipelineLog:2023-07-26 20:10:24: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1025') as tbl;
+INFO:PipelineLog:2023-07-26 20:10:30: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:2023-07-26 20:10:30: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3673328655') as tbl;
+INFO:PipelineLog:2023-07-26 20:10:34: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:10:34: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '6849') as tbl;
+INFO:PipelineLog:2023-07-26 20:10:34: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '6849') as tbl;
+ERROR:PipelineLog:2023-07-26 20:10:37: Error while trying to execute procedure: UPDATECOMPANY : 1406 (22001): Data too long for column 'CHQADDRESS' at row 1 
+INFO:PipelineLog:2023-07-26 20:10:37: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3676258315') as tbl;
+INFO:PipelineLog:2023-07-26 20:10:42: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:10:42: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '6849') as tbl;
+INFO:PipelineLog:2023-07-26 20:10:42: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '6849') as tbl;
+ERROR:PipelineLog:2023-07-26 20:10:45: Error while trying to execute procedure: UPDATECOMPANY : 1406 (22001): Data too long for column 'CHQADDRESS' at row 1 
+INFO:PipelineLog:2023-07-26 20:10:45: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3676258358') as tbl;
+INFO:PipelineLog:2023-07-26 20:10:48: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:10:48: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1772177') as tbl;
+INFO:PipelineLog:2023-07-26 20:10:48: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1772177') as tbl;
+INFO:PipelineLog:Company listed is already in database.
+INFO:PipelineLog:2023-07-26 20:10:48: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3630046861') as tbl;
+INFO:PipelineLog:2023-07-26 20:10:51: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:10:51: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '165294') as tbl;
+INFO:PipelineLog:2023-07-26 20:10:51: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '165294') as tbl;
+INFO:PipelineLog:2023-07-26 20:10:54: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:2023-07-26 20:10:54: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3676035101') as tbl;
+INFO:PipelineLog:2023-07-26 20:10:56: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:10:56: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '6849') as tbl;
+INFO:PipelineLog:2023-07-26 20:10:56: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '6849') as tbl;
+ERROR:PipelineLog:2023-07-26 20:11:02: Error while trying to execute procedure: UPDATECOMPANY : 1406 (22001): Data too long for column 'CHQADDRESS' at row 1 
+INFO:PipelineLog:2023-07-26 20:11:02: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3676259482') as tbl;
+INFO:PipelineLog:2023-07-26 20:11:07: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:11:07: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1403') as tbl;
+INFO:PipelineLog:2023-07-26 20:11:07: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1403') as tbl;
+INFO:PipelineLog:2023-07-26 20:11:12: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:2023-07-26 20:11:12: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3676029154') as tbl;
+INFO:PipelineLog:2023-07-26 20:11:17: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:11:17: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1235') as tbl;
+INFO:PipelineLog:2023-07-26 20:11:17: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1235') as tbl;
+INFO:PipelineLog:Company listed is already in database.
+INFO:PipelineLog:2023-07-26 20:11:17: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3676274420') as tbl;
+INFO:PipelineLog:2023-07-26 20:11:22: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:11:22: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '11418434') as tbl;
+INFO:PipelineLog:2023-07-26 20:11:22: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '11418434') as tbl;
+INFO:PipelineLog:2023-07-26 20:11:26: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:2023-07-26 20:11:26: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3676192381') as tbl;
+INFO:PipelineLog:2023-07-26 20:11:28: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:11:28: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1307') as tbl;
+INFO:PipelineLog:2023-07-26 20:11:28: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1307') as tbl;
+INFO:PipelineLog:2023-07-26 20:11:31: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:2023-07-26 20:11:31: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3675315173') as tbl;
+INFO:PipelineLog:2023-07-26 20:11:36: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:11:36: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '11418434') as tbl;
+INFO:PipelineLog:2023-07-26 20:11:36: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '11418434') as tbl;
+INFO:PipelineLog:Company listed is already in database.
+INFO:PipelineLog:2023-07-26 20:11:36: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3676192377') as tbl;
+INFO:PipelineLog:2023-07-26 20:11:41: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:11:41: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '10667') as tbl;
+INFO:PipelineLog:2023-07-26 20:11:41: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '10667') as tbl;
+INFO:PipelineLog:Company listed is already in database.
+INFO:PipelineLog:2023-07-26 20:11:41: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3676158854') as tbl;
+INFO:PipelineLog:2023-07-26 20:11:44: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:11:44: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1038') as tbl;
+INFO:PipelineLog:2023-07-26 20:11:44: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1038') as tbl;
+INFO:PipelineLog:Company listed is already in database.
+INFO:PipelineLog:2023-07-26 20:11:44: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3673333094') as tbl;
+INFO:PipelineLog:2023-07-26 20:11:47: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:11:47: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '18860134') as tbl;
+INFO:PipelineLog:2023-07-26 20:11:47: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '18860134') as tbl;
+ERROR:PipelineLog:2023-07-26 20:11:52: Error while trying to execute procedure: UPDATECOMPANY : 1406 (22001): Data too long for column 'CHQADDRESS' at row 1 
+INFO:PipelineLog:2023-07-26 20:11:52: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3675384599') as tbl;
+INFO:PipelineLog:2023-07-26 20:11:57: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:11:57: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '5235') as tbl;
+INFO:PipelineLog:2023-07-26 20:11:57: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '5235') as tbl;
+ERROR:PipelineLog:2023-07-26 20:12:01: Error while trying to execute procedure: UPDATECOMPANY : 1406 (22001): Data too long for column 'CHQADDRESS' at row 1 
+INFO:PipelineLog:2023-07-26 20:12:01: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3675707021') as tbl;
+INFO:PipelineLog:2023-07-26 20:12:05: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:12:05: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '2730341') as tbl;
+INFO:PipelineLog:2023-07-26 20:12:05: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '2730341') as tbl;
+INFO:PipelineLog:2023-07-26 20:12:08: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:2023-07-26 20:12:08: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3676779239') as tbl;
+INFO:PipelineLog:2023-07-26 20:12:10: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:12:10: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '2113831') as tbl;
+INFO:PipelineLog:2023-07-26 20:12:10: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '2113831') as tbl;
+INFO:PipelineLog:2023-07-26 20:12:12: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:2023-07-26 20:12:12: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3676504391') as tbl;
+INFO:PipelineLog:2023-07-26 20:12:14: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:12:14: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '18868393') as tbl;
+INFO:PipelineLog:2023-07-26 20:12:14: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '18868393') as tbl;
+INFO:PipelineLog:2023-07-26 20:12:20: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:2023-07-26 20:12:20: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3673190989') as tbl;
+INFO:PipelineLog:2023-07-26 20:12:25: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:12:25: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1028') as tbl;
+INFO:PipelineLog:2023-07-26 20:12:25: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1028') as tbl;
+INFO:PipelineLog:2023-07-26 20:12:28: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:2023-07-26 20:12:28: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3676748448') as tbl;
+INFO:PipelineLog:2023-07-26 20:12:32: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:12:32: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '2934') as tbl;
+INFO:PipelineLog:2023-07-26 20:12:32: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '2934') as tbl;
+INFO:PipelineLog:Company listed is already in database.
+INFO:PipelineLog:2023-07-26 20:12:32: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3676235239') as tbl;
+INFO:PipelineLog:2023-07-26 20:12:38: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:12:38: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '15078383') as tbl;
+INFO:PipelineLog:2023-07-26 20:12:38: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '15078383') as tbl;
+INFO:PipelineLog:2023-07-26 20:12:42: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:2023-07-26 20:12:42: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3676727723') as tbl;
+INFO:PipelineLog:2023-07-26 20:12:45: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:12:45: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '5461') as tbl;
+INFO:PipelineLog:2023-07-26 20:12:45: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '5461') as tbl;
+INFO:PipelineLog:2023-07-26 20:12:50: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:2023-07-26 20:12:50: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3670527063') as tbl;
+INFO:PipelineLog:2023-07-26 20:12:55: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:12:55: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1059707') as tbl;
+INFO:PipelineLog:2023-07-26 20:12:55: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1059707') as tbl;
+ERROR:PipelineLog:2023-07-26 20:12:58: Error while trying to execute procedure: UPDATECOMPANY : 1406 (22001): Data too long for column 'CHQADDRESS' at row 1 
+INFO:PipelineLog:2023-07-26 20:12:58: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3675696405') as tbl;
+INFO:PipelineLog:2023-07-26 20:13:02: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:13:02: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1586') as tbl;
+INFO:PipelineLog:2023-07-26 20:13:02: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1586') as tbl;
+INFO:PipelineLog:Company listed is already in database.
+INFO:PipelineLog:2023-07-26 20:13:02: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3673194943') as tbl;
+INFO:PipelineLog:2023-07-26 20:13:06: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:13:06: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1235') as tbl;
+INFO:PipelineLog:2023-07-26 20:13:06: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1235') as tbl;
+INFO:PipelineLog:Company listed is already in database.
+INFO:PipelineLog:2023-07-26 20:13:06: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3676767664') as tbl;
+INFO:PipelineLog:2023-07-26 20:13:09: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:13:09: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '6849') as tbl;
+INFO:PipelineLog:2023-07-26 20:13:09: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '6849') as tbl;
+ERROR:PipelineLog:2023-07-26 20:13:13: Error while trying to execute procedure: UPDATECOMPANY : 1406 (22001): Data too long for column 'CHQADDRESS' at row 1 
+INFO:PipelineLog:2023-07-26 20:13:13: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3676265149') as tbl;
+INFO:PipelineLog:2023-07-26 20:13:15: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:13:15: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1441') as tbl;
+INFO:PipelineLog:2023-07-26 20:13:15: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1441') as tbl;
+INFO:PipelineLog:Company listed is already in database.
+INFO:PipelineLog:2023-07-26 20:13:15: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3675274138') as tbl;
+INFO:PipelineLog:2023-07-26 20:13:20: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:13:20: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '86365742') as tbl;
+INFO:PipelineLog:2023-07-26 20:13:20: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '86365742') as tbl;
+INFO:PipelineLog:2023-07-26 20:13:24: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:2023-07-26 20:13:24: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3673144286') as tbl;
+INFO:PipelineLog:2023-07-26 20:13:26: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:13:26: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3516935') as tbl;
+INFO:PipelineLog:2023-07-26 20:13:26: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3516935') as tbl;
+INFO:PipelineLog:2023-07-26 20:13:31: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:2023-07-26 20:13:31: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3676740849') as tbl;
+INFO:PipelineLog:2023-07-26 20:13:34: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:13:34: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '165497') as tbl;
+INFO:PipelineLog:2023-07-26 20:13:34: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '165497') as tbl;
+INFO:PipelineLog:2023-07-26 20:13:36: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:2023-07-26 20:13:36: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3395199945') as tbl;
+INFO:PipelineLog:2023-07-26 20:13:41: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:13:41: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '40956') as tbl;
+INFO:PipelineLog:2023-07-26 20:13:41: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '40956') as tbl;
+ERROR:PipelineLog:2023-07-26 20:13:45: Error while trying to execute procedure: UPDATECOMPANY : 1406 (22001): Data too long for column 'CHQADDRESS' at row 1 
+INFO:PipelineLog:2023-07-26 20:13:45: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3634215901') as tbl;
+INFO:PipelineLog:2023-07-26 20:13:49: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:13:49: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '30146') as tbl;
+INFO:PipelineLog:2023-07-26 20:13:49: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '30146') as tbl;
+INFO:PipelineLog:2023-07-26 20:13:52: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:2023-07-26 20:13:52: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3676147518') as tbl;
+INFO:PipelineLog:2023-07-26 20:13:54: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:13:54: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '11009726') as tbl;
+INFO:PipelineLog:2023-07-26 20:13:54: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '11009726') as tbl;
+INFO:PipelineLog:2023-07-26 20:13:56: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:2023-07-26 20:13:56: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3676775121') as tbl;
+INFO:PipelineLog:2023-07-26 20:13:58: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:13:58: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '4783') as tbl;
+INFO:PipelineLog:2023-07-26 20:13:58: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '4783') as tbl;
+INFO:PipelineLog:2023-07-26 20:14:02: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:2023-07-26 20:14:02: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3669264115') as tbl;
+INFO:PipelineLog:2023-07-26 20:14:04: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:14:04: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '11317039') as tbl;
+INFO:PipelineLog:2023-07-26 20:14:04: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '11317039') as tbl;
+ERROR:PipelineLog:2023-07-26 20:14:07: Error while trying to execute procedure: UPDATECOMPANY : 1406 (22001): Data too long for column 'CHQADDRESS' at row 1 
+INFO:PipelineLog:2023-07-26 20:14:07: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3643823029') as tbl;
+INFO:PipelineLog:2023-07-26 20:14:12: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:14:12: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '2934') as tbl;
+INFO:PipelineLog:2023-07-26 20:14:12: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '2934') as tbl;
+INFO:PipelineLog:Company listed is already in database.
+INFO:PipelineLog:2023-07-26 20:14:12: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3676740193') as tbl;
+INFO:PipelineLog:2023-07-26 20:14:17: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:14:17: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '30666065') as tbl;
+INFO:PipelineLog:2023-07-26 20:14:17: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '30666065') as tbl;
+ERROR:PipelineLog:2023-07-26 20:14:23: Error while trying to execute procedure: UPDATECOMPANY : 1366 (HY000): Incorrect integer value: 'EC2A 4EB' for column 'CHQZIPCODE' at row 1 
+INFO:PipelineLog:2023-07-26 20:14:23: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3630449750') as tbl;
+ERROR:PipelineLog:2023-07-26 20:14:25: Error while trying to execute procedure: UPDATEJOBPOST : 1406 (22001): Data too long for column 'JOBTITLE' at row 1 
+INFO:PipelineLog:2023-07-26 20:14:25: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '51176') as tbl;
+INFO:PipelineLog:2023-07-26 20:14:25: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '51176') as tbl;
+INFO:PipelineLog:2023-07-26 20:14:29: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:2023-07-26 20:14:29: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3676771616') as tbl;
+INFO:PipelineLog:2023-07-26 20:14:32: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:14:32: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1070') as tbl;
+INFO:PipelineLog:2023-07-26 20:14:32: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1070') as tbl;
+INFO:PipelineLog:2023-07-26 20:14:34: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:2023-07-26 20:14:34: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3606189211') as tbl;
+INFO:PipelineLog:2023-07-26 20:14:37: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:14:37: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3741') as tbl;
+INFO:PipelineLog:2023-07-26 20:14:37: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3741') as tbl;
+INFO:PipelineLog:2023-07-26 20:14:42: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:2023-07-26 20:14:42: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3676503912') as tbl;
+INFO:PipelineLog:2023-07-26 20:14:45: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:14:45: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '426253') as tbl;
+INFO:PipelineLog:2023-07-26 20:14:45: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '426253') as tbl;
+INFO:PipelineLog:Company listed is already in database.
+INFO:PipelineLog:2023-07-26 20:14:45: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3675677932') as tbl;
+ERROR:PipelineLog:2023-07-26 20:14:49: Error while trying to execute procedure: UPDATEJOBPOST : 1406 (22001): Data too long for column 'JOBDESC' at row 1 
+INFO:PipelineLog:2023-07-26 20:14:49: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1235') as tbl;
+INFO:PipelineLog:2023-07-26 20:14:49: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1235') as tbl;
+INFO:PipelineLog:Company listed is already in database.
+INFO:PipelineLog:2023-07-26 20:14:49: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3676272751') as tbl;
+INFO:PipelineLog:2023-07-26 20:14:52: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:14:52: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1025') as tbl;
+INFO:PipelineLog:2023-07-26 20:14:52: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1025') as tbl;
+INFO:PipelineLog:Company listed is already in database.
+INFO:PipelineLog:2023-07-26 20:14:52: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3673331214') as tbl;
+INFO:PipelineLog:2023-07-26 20:14:55: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:14:55: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1007957') as tbl;
+INFO:PipelineLog:2023-07-26 20:14:55: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1007957') as tbl;
+ERROR:PipelineLog:2023-07-26 20:14:57: Error while trying to execute procedure: UPDATECOMPANY : 1406 (22001): Data too long for column 'CHQADDRESS' at row 1 
+INFO:PipelineLog:2023-07-26 20:14:57: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3675920707') as tbl;
+INFO:PipelineLog:2023-07-26 20:15:00: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:15:00: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '6849') as tbl;
+INFO:PipelineLog:2023-07-26 20:15:00: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '6849') as tbl;
+ERROR:PipelineLog:2023-07-26 20:15:03: Error while trying to execute procedure: UPDATECOMPANY : 1406 (22001): Data too long for column 'CHQADDRESS' at row 1 
+INFO:PipelineLog:2023-07-26 20:15:03: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3676259217') as tbl;
+INFO:PipelineLog:2023-07-26 20:15:05: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:15:05: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '100142') as tbl;
+INFO:PipelineLog:2023-07-26 20:15:05: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '100142') as tbl;
+INFO:PipelineLog:2023-07-26 20:15:11: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:2023-07-26 20:15:11: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3673348242') as tbl;
+INFO:PipelineLog:2023-07-26 20:15:14: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:15:14: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '11780598') as tbl;
+INFO:PipelineLog:2023-07-26 20:15:14: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '11780598') as tbl;
+INFO:PipelineLog:2023-07-26 20:15:16: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:2023-07-26 20:15:16: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3675316377') as tbl;
+INFO:PipelineLog:2023-07-26 20:15:20: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:15:20: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1068') as tbl;
+INFO:PipelineLog:2023-07-26 20:15:20: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1068') as tbl;
+ERROR:PipelineLog:2023-07-26 20:15:22: Error while trying to execute procedure: UPDATECOMPANY : 1265 (01000): Data truncated for column 'CHQZIPCODE' at row 1 
+INFO:PipelineLog:2023-07-26 20:15:22: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3672973035') as tbl;
+INFO:PipelineLog:2023-07-26 20:15:25: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:15:25: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1772177') as tbl;
+INFO:PipelineLog:2023-07-26 20:15:25: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1772177') as tbl;
+INFO:PipelineLog:Company listed is already in database.
+INFO:PipelineLog:2023-07-26 20:15:25: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3643229676') as tbl;
+INFO:PipelineLog:2023-07-26 20:15:29: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:15:29: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '40956') as tbl;
+INFO:PipelineLog:2023-07-26 20:15:29: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '40956') as tbl;
+ERROR:PipelineLog:2023-07-26 20:15:34: Error while trying to execute procedure: UPDATECOMPANY : 1406 (22001): Data too long for column 'CHQADDRESS' at row 1 
+INFO:PipelineLog:2023-07-26 20:15:34: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3597352432') as tbl;
+INFO:PipelineLog:2023-07-26 20:15:38: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:15:38: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '47843') as tbl;
+INFO:PipelineLog:2023-07-26 20:15:38: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '47843') as tbl;
+INFO:PipelineLog:2023-07-26 20:15:41: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:2023-07-26 20:15:41: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3533890672') as tbl;
+INFO:PipelineLog:2023-07-26 20:15:46: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:15:46: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '167757') as tbl;
+INFO:PipelineLog:2023-07-26 20:15:46: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '167757') as tbl;
+INFO:PipelineLog:2023-07-26 20:15:51: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:2023-07-26 20:15:51: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3672957686') as tbl;
+INFO:PipelineLog:2023-07-26 20:15:57: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:15:57: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '40018') as tbl;
+INFO:PipelineLog:2023-07-26 20:15:57: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '40018') as tbl;
+INFO:PipelineLog:Company listed is already in database.
+INFO:PipelineLog:2023-07-26 20:15:57: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3676247389') as tbl;
+INFO:PipelineLog:2023-07-26 20:16:01: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:16:01: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '4256') as tbl;
+INFO:PipelineLog:2023-07-26 20:16:01: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '4256') as tbl;
+ERROR:PipelineLog:2023-07-26 20:16:04: Error while trying to execute procedure: UPDATECOMPANY : 1406 (22001): Data too long for column 'CHQADDRESS' at row 1 
+INFO:PipelineLog:2023-07-26 20:16:04: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3676769467') as tbl;
+INFO:PipelineLog:2023-07-26 20:16:06: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:16:06: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '5770') as tbl;
+INFO:PipelineLog:2023-07-26 20:16:06: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '5770') as tbl;
+INFO:PipelineLog:2023-07-26 20:16:08: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:2023-07-26 20:16:08: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3653132648') as tbl;
+INFO:PipelineLog:2023-07-26 20:16:13: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:16:13: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '167251') as tbl;
+INFO:PipelineLog:2023-07-26 20:16:13: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '167251') as tbl;
+INFO:PipelineLog:Company listed is already in database.
+INFO:PipelineLog:2023-07-26 20:16:13: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3560410030') as tbl;
+INFO:PipelineLog:2023-07-26 20:16:18: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:16:18: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '18425303') as tbl;
+INFO:PipelineLog:2023-07-26 20:16:18: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '18425303') as tbl;
+INFO:PipelineLog:2023-07-26 20:16:21: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:2023-07-26 20:16:21: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3675342808') as tbl;
+INFO:PipelineLog:2023-07-26 20:16:24: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:16:24: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '5461') as tbl;
+INFO:PipelineLog:2023-07-26 20:16:24: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '5461') as tbl;
+INFO:PipelineLog:Company listed is already in database.
+INFO:PipelineLog:2023-07-26 20:16:24: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3673122090') as tbl;
+INFO:PipelineLog:2023-07-26 20:16:28: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:16:28: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1666') as tbl;
+INFO:PipelineLog:2023-07-26 20:16:28: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1666') as tbl;
+INFO:PipelineLog:2023-07-26 20:16:32: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:2023-07-26 20:16:32: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3676287985') as tbl;
+INFO:PipelineLog:2023-07-26 20:16:37: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:16:37: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '18730955') as tbl;
+INFO:PipelineLog:2023-07-26 20:16:37: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '18730955') as tbl;
+INFO:PipelineLog:2023-07-26 20:16:42: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:2023-07-26 20:16:42: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3676731539') as tbl;
+INFO:PipelineLog:2023-07-26 20:16:47: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:16:47: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3118688') as tbl;
+INFO:PipelineLog:2023-07-26 20:16:47: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3118688') as tbl;
+INFO:PipelineLog:Company listed is already in database.
+INFO:PipelineLog:2023-07-26 20:16:47: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3675687961') as tbl;
+INFO:PipelineLog:2023-07-26 20:16:52: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:16:52: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '323296') as tbl;
+INFO:PipelineLog:2023-07-26 20:16:52: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '323296') as tbl;
+INFO:PipelineLog:2023-07-26 20:16:57: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:2023-07-26 20:16:57: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3673338025') as tbl;
+INFO:PipelineLog:2023-07-26 20:17:01: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:17:01: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '426253') as tbl;
+INFO:PipelineLog:2023-07-26 20:17:01: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '426253') as tbl;
+INFO:PipelineLog:Company listed is already in database.
+INFO:PipelineLog:2023-07-26 20:17:01: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3675677992') as tbl;
+ERROR:PipelineLog:2023-07-26 20:17:05: Error while trying to execute procedure: UPDATEJOBPOST : 1406 (22001): Data too long for column 'JOBDESC' at row 1 
+INFO:PipelineLog:2023-07-26 20:17:05: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '5770') as tbl;
+INFO:PipelineLog:2023-07-26 20:17:05: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '5770') as tbl;
+INFO:PipelineLog:Company listed is already in database.
+INFO:PipelineLog:2023-07-26 20:17:05: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3653130695') as tbl;
+INFO:PipelineLog:2023-07-26 20:17:09: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:17:09: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '18464083') as tbl;
+INFO:PipelineLog:2023-07-26 20:17:09: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '18464083') as tbl;
+INFO:PipelineLog:2023-07-26 20:17:12: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:2023-07-26 20:17:12: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3676795927') as tbl;
+INFO:PipelineLog:2023-07-26 20:17:14: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:17:14: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '55895') as tbl;
+INFO:PipelineLog:2023-07-26 20:17:14: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '55895') as tbl;
+ERROR:PipelineLog:2023-07-26 20:17:16: Error while trying to execute procedure: UPDATECOMPANY : 1366 (HY000): Incorrect integer value: 'EC2M 2PF' for column 'CHQZIPCODE' at row 1 
+INFO:PipelineLog:2023-07-26 20:17:16: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3676751180') as tbl;
+INFO:PipelineLog:2023-07-26 20:17:20: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:17:20: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1403') as tbl;
+INFO:PipelineLog:2023-07-26 20:17:20: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1403') as tbl;
+INFO:PipelineLog:Company listed is already in database.
+INFO:PipelineLog:2023-07-26 20:17:20: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3592237451') as tbl;
+INFO:PipelineLog:2023-07-26 20:17:25: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:17:25: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '603959') as tbl;
+INFO:PipelineLog:2023-07-26 20:17:25: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '603959') as tbl;
+INFO:PipelineLog:2023-07-26 20:17:28: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:2023-07-26 20:17:28: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3675796724') as tbl;
+INFO:PipelineLog:2023-07-26 20:17:30: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:17:30: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '6849') as tbl;
+INFO:PipelineLog:2023-07-26 20:17:30: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '6849') as tbl;
+ERROR:PipelineLog:2023-07-26 20:17:32: Error while trying to execute procedure: UPDATECOMPANY : 1406 (22001): Data too long for column 'CHQADDRESS' at row 1 
+INFO:PipelineLog:2023-07-26 20:17:32: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3666866161') as tbl;
+INFO:PipelineLog:2023-07-26 20:17:34: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:17:34: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '40956') as tbl;
+INFO:PipelineLog:2023-07-26 20:17:34: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '40956') as tbl;
+ERROR:PipelineLog:2023-07-26 20:17:39: Error while trying to execute procedure: UPDATECOMPANY : 1406 (22001): Data too long for column 'CHQADDRESS' at row 1 
+INFO:PipelineLog:2023-07-26 20:17:39: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3656602367') as tbl;
+INFO:PipelineLog:2023-07-26 20:17:43: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:17:43: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1028') as tbl;
+INFO:PipelineLog:2023-07-26 20:17:43: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1028') as tbl;
+INFO:PipelineLog:Company listed is already in database.
+INFO:PipelineLog:2023-07-26 20:17:43: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3673339317') as tbl;
+INFO:PipelineLog:2023-07-26 20:17:48: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:17:48: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3818') as tbl;
+INFO:PipelineLog:2023-07-26 20:17:48: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3818') as tbl;
+INFO:PipelineLog:2023-07-26 20:17:52: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:2023-07-26 20:17:52: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3676738060') as tbl;
+INFO:PipelineLog:2023-07-26 20:17:55: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:17:55: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1384') as tbl;
+INFO:PipelineLog:2023-07-26 20:17:55: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1384') as tbl;
+INFO:PipelineLog:2023-07-26 20:18:00: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:2023-07-26 20:18:00: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3676750726') as tbl;
+INFO:PipelineLog:2023-07-26 20:18:03: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:18:03: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '78378114') as tbl;
+INFO:PipelineLog:2023-07-26 20:18:03: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '78378114') as tbl;
+INFO:PipelineLog:2023-07-26 20:18:06: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:2023-07-26 20:18:06: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3673327860') as tbl;
+INFO:PipelineLog:2023-07-26 20:18:08: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:18:08: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1235') as tbl;
+INFO:PipelineLog:2023-07-26 20:18:08: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1235') as tbl;
+INFO:PipelineLog:Company listed is already in database.
+INFO:PipelineLog:2023-07-26 20:18:08: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3676766050') as tbl;
+INFO:PipelineLog:2023-07-26 20:18:12: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:18:12: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '8853') as tbl;
+INFO:PipelineLog:2023-07-26 20:18:12: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '8853') as tbl;
+INFO:PipelineLog:2023-07-26 20:18:17: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:2023-07-26 20:18:17: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3634164189') as tbl;
+INFO:PipelineLog:2023-07-26 20:18:22: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:18:22: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3121734') as tbl;
+INFO:PipelineLog:2023-07-26 20:18:22: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3121734') as tbl;
+INFO:PipelineLog:2023-07-26 20:18:25: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:2023-07-26 20:18:25: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3673323149') as tbl;
+INFO:PipelineLog:2023-07-26 20:18:27: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:18:27: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '6577635') as tbl;
+INFO:PipelineLog:2023-07-26 20:18:27: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '6577635') as tbl;
+INFO:PipelineLog:2023-07-26 20:18:31: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:2023-07-26 20:18:31: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3676779092') as tbl;
+INFO:PipelineLog:2023-07-26 20:18:36: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:18:36: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '34616') as tbl;
+INFO:PipelineLog:2023-07-26 20:18:36: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '34616') as tbl;
+INFO:PipelineLog:2023-07-26 20:18:42: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:2023-07-26 20:18:42: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3673139134') as tbl;
+INFO:PipelineLog:2023-07-26 20:18:44: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:18:44: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '4256') as tbl;
+INFO:PipelineLog:2023-07-26 20:18:44: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '4256') as tbl;
+ERROR:PipelineLog:2023-07-26 20:18:49: Error while trying to execute procedure: UPDATECOMPANY : 1406 (22001): Data too long for column 'CHQADDRESS' at row 1 
+INFO:PipelineLog:2023-07-26 20:18:49: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3676767944') as tbl;
+INFO:PipelineLog:2023-07-26 20:18:53: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:18:53: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '306019') as tbl;
+INFO:PipelineLog:2023-07-26 20:18:53: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '306019') as tbl;
+INFO:PipelineLog:2023-07-26 20:18:56: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:2023-07-26 20:18:56: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3676767784') as tbl;
+INFO:PipelineLog:2023-07-26 20:19:01: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:19:01: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1038') as tbl;
+INFO:PipelineLog:2023-07-26 20:19:01: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1038') as tbl;
+INFO:PipelineLog:Company listed is already in database.
+INFO:PipelineLog:2023-07-26 20:19:01: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3630926378') as tbl;
+INFO:PipelineLog:2023-07-26 20:19:05: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:19:05: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '6849') as tbl;
+INFO:PipelineLog:2023-07-26 20:19:05: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '6849') as tbl;
+ERROR:PipelineLog:2023-07-26 20:19:08: Error while trying to execute procedure: UPDATECOMPANY : 1406 (22001): Data too long for column 'CHQADDRESS' at row 1 
+INFO:PipelineLog:2023-07-26 20:19:08: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3666865247') as tbl;
+INFO:PipelineLog:2023-07-26 20:19:10: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:19:10: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '40018') as tbl;
+INFO:PipelineLog:2023-07-26 20:19:10: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '40018') as tbl;
+INFO:PipelineLog:Company listed is already in database.
+INFO:PipelineLog:2023-07-26 20:19:10: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3676752105') as tbl;
+INFO:PipelineLog:2023-07-26 20:19:15: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:19:15: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '4128') as tbl;
+INFO:PipelineLog:2023-07-26 20:19:15: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '4128') as tbl;
+INFO:PipelineLog:2023-07-26 20:19:18: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:2023-07-26 20:19:18: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3675932630') as tbl;
+INFO:PipelineLog:2023-07-26 20:19:23: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:19:23: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1384') as tbl;
+INFO:PipelineLog:2023-07-26 20:19:23: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1384') as tbl;
+INFO:PipelineLog:Company listed is already in database.
+INFO:PipelineLog:2023-07-26 20:19:23: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3676753432') as tbl;
+INFO:PipelineLog:2023-07-26 20:19:26: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:19:26: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1881') as tbl;
+INFO:PipelineLog:2023-07-26 20:19:26: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1881') as tbl;
+INFO:PipelineLog:2023-07-26 20:19:30: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:2023-07-26 20:19:30: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3677002085') as tbl;
+INFO:PipelineLog:2023-07-26 20:19:33: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:19:33: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1028156') as tbl;
+INFO:PipelineLog:2023-07-26 20:19:33: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1028156') as tbl;
+INFO:PipelineLog:2023-07-26 20:19:38: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:2023-07-26 20:19:38: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3676749560') as tbl;
+INFO:PipelineLog:2023-07-26 20:19:41: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:19:41: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1307') as tbl;
+INFO:PipelineLog:2023-07-26 20:19:41: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '1307') as tbl;
+INFO:PipelineLog:Company listed is already in database.
+INFO:PipelineLog:2023-07-26 20:19:41: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '3675310780') as tbl;
+INFO:PipelineLog:2023-07-26 20:19:46: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:19:46: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '68698403') as tbl;
+INFO:PipelineLog:2023-07-26 20:19:46: Successfully fetched data from executing query: SELECT count(*) FROM (SELECT * FROM `company_dimension` WHERE `companyID` = '68698403') as tbl;
+INFO:PipelineLog:2023-07-26 20:23:16: MySQL connection is created.
+INFO:PipelineLog:2023-07-26 20:23:17: Successfully executed procedure: UPDATEDATETIME
+INFO:PipelineLog:2023-07-26 20:29:30: Successfully extracted 4 job boards by title
+INFO:PipelineLog:2023-07-26 20:29:30: Job board 1 with 1000 jobs
+INFO:PipelineLog:Company listed is already in database.
+INFO:PipelineLog:2023-07-26 20:29:33: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:29:37: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:2023-07-26 20:29:41: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:29:45: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:2023-07-26 20:29:50: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:Company listed is already in database.
+INFO:PipelineLog:2023-07-26 20:29:52: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:Company listed is already in database.
+INFO:PipelineLog:2023-07-26 20:29:55: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:Company listed is already in database.
+INFO:PipelineLog:2023-07-26 20:29:57: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:Company listed is already in database.
+INFO:PipelineLog:2023-07-26 20:30:01: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:Company listed is already in database.
+INFO:PipelineLog:2023-07-26 20:30:03: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 20:30:06: Successfully executed procedure: UPDATECOMPANY
+INFO:PipelineLog:2023-07-26 20:30:10: Successfully executed procedure: UPDATEJOBPOST
+ERROR:PipelineLog:2023-07-26 20:30:15: Error while trying to execute procedure: UPDATECOMPANY : 1406 (22001): Data too long for column 'CHQADDRESS' at row 1 
+INFO:PipelineLog:2023-07-26 20:30:19: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:Company listed is already in database.
+INFO:PipelineLog:2023-07-26 20:30:21: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:Company listed is already in database.
+INFO:PipelineLog:2023-07-26 20:30:26: Successfully executed procedure: UPDATEJOBPOST
+INFO:PipelineLog:2023-07-26 21:08:47: MySQL connection is created.
+INFO:PipelineLog:2023-07-26 21:08:49: Successfully executed procedure: UPDATEDATETIME
+INFO:PipelineLog:2023-07-26 21:13:25: MySQL connection is created.
+INFO:PipelineLog:2023-07-26 21:13:26: Successfully executed procedure: UPDATEDATETIME

@@ -25,3 +25,9 @@ VALUES (123, "GoogleX", "DC", "www.googlex.com", "tech");
 -- END
 
 SELECT User FROM mysql.user;
+
+SELECT * from `jobPost_facts`;
+
+-- SELECT * FROM `jobPost_facts` WHERE EXISTS(SELECT * FROM `jobPost_facts` WHERE `jobPostingID` = '3634164629');
+
+SELECT count(*) FROM (SELECT * FROM `jobPost_facts` WHERE `jobPostingID` = 'umbala') as tbl;

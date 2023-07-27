@@ -7,3 +7,5 @@ if __name__ == "__main__":
     task = UpdateDatabaseNewData()
 
     task.insertion_flow()
+
+    task.close_database_connection()

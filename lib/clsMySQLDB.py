@@ -55,7 +55,7 @@ class clsMySqlDatabase(clsAbstractDatabase):
         try:
             cursor.execute(query)
             result = cursor.fetchall()
-            self.logger.info(f"{utils.get_current_datetime()}: Successfully fetched data from executing query: {query}")
+            # self.logger.info(f"{utils.get_current_datetime()}: Successfully fetched data from executing query: {query}")
         except Exception as e:
             self.logger.error(f"{utils.get_current_datetime()}: Error while trying to fetch data from executing query: {query} : {e}")
         finally:

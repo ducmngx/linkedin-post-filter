@@ -9,7 +9,7 @@ from datetime import datetime
 
 #--------------- Prefixed Variables --------------#
 
-JOB_TITLE_OF_INTEREST = ['Data Engineer', 'Data Analyst', 'Software Engineer', 'Machine Learning Engineer']
+JOB_TITLE_OF_INTEREST = ['Software Engineer', 'Machine Learning Engineer', 'Data Engineer', "Cloud Engineer", 'Data Analyst', "Quant"]
 
 #----------- End of Prefixed Variables -----------#
 
