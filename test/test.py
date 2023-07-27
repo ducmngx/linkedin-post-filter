@@ -10,12 +10,14 @@ import requests
 import json
 from linkedin_api import Linkedin
 import json
+import pandas as pd
 
 # credentials should be stored in a different file
 
 # Authenticate using any Linkedin account credentials
 
 if __name__ == "__main__":
+    pass
     # now = dt.now().date().isoformat()
 
     # print(dt.now().date().weekday() )
@@ -39,10 +41,22 @@ if __name__ == "__main__":
 
     # print(output)
 
-    user = os.getenv("LINKEDIN_USER")
-    password = os.getenv("LINKEDIN_PASSWORD")
-    linkedin = Linkedin(user, password)
+    # user = os.getenv("LINKEDIN_USER")
+    # password = os.getenv("LINKEDIN_PASSWORD")
+    # linkedin = Linkedin(user, password)
 
-    tmp = linkedin.search_jobs(keywords="Cloud Engineer")
+    # tmp = linkedin.search_jobs(keywords="Cloud Engineer")
 
-    print(tmp)
+    # print(tmp)
+
+    # db = clsMySqlDatabase()
+
+    # db.start_connection()
+
+    # company_data = db.get_data('select * from datetime_dimension;')
+
+    # cdf = pd.DataFrame(company_data)
+
+    # print(cdf)
+
+    # cdf.to_csv('datetime_dimension.csv', encoding='utf-8', index=False) 

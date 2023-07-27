@@ -33,7 +33,6 @@ class UpdateDatabaseNewData():
         self.db.end_connection()
 
     def update_datetime_table(self):
-
         service_date = self.datetime
         service_week = self.datetime.isocalendar().week
         service_year = self.datetime.year
